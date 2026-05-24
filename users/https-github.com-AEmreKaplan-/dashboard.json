@@ -158,11 +158,11 @@
   ],
   "tabs": [
     {
-      "id": "tab_2drrblv",
+      "id": "tab_1ikbh0u",
       "name": "Technology Platforms",
       "groups": [
         {
-          "id": "g_iduijjv",
+          "id": "g_lq9w21w",
           "name": "SOI 220 nm",
           "platformMeta": {
             "material": "Si",
@@ -200,7 +200,14 @@
               "plannedReleaseDate": "",
               "trl": null,
               "documents": [],
-              "smatrixGroups": []
+              "smatrixGroups": [],
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "fetchHistory": [],
+              "edaLinks": []
             }
           ]
         }
@@ -215,7 +222,7 @@
   },
   "contributors": [],
   "_distribution": {
-    "publishedAt": "2026-05-24T20:38:44.803Z",
+    "publishedAt": "2026-05-24T21:04:39.382Z",
     "publisherIdentity": "https://github.com/AEmreKaplan/",
     "publisherLabel": "CS_Emre",
     "publisherRole": "user-admin",
