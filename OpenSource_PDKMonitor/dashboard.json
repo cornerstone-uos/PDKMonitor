@@ -297,7 +297,10 @@
             "material": "Si",
             "thickness": 220
           },
-          "entities": []
+          "entities": [],
+          "status": "",
+          "kind": "",
+          "collapsed": false
         },
         {
           "id": "g_j6x8qcx",
@@ -306,7 +309,10 @@
             "material": "Si",
             "thickness": 340
           },
-          "entities": []
+          "entities": [],
+          "status": "",
+          "kind": "",
+          "collapsed": false
         },
         {
           "id": "g_k35z1q3",
@@ -315,7 +321,10 @@
             "material": "Si",
             "thickness": 500
           },
-          "entities": []
+          "entities": [],
+          "status": "",
+          "kind": "",
+          "collapsed": false
         },
         {
           "id": "g_jgnxofn",
@@ -324,7 +333,10 @@
             "material": "LN",
             "thickness": 300
           },
-          "entities": []
+          "entities": [],
+          "status": "",
+          "kind": "",
+          "collapsed": false
         },
         {
           "id": "g_xwia1f8",
@@ -333,7 +345,10 @@
             "material": "SiN",
             "thickness": 300
           },
-          "entities": []
+          "entities": [],
+          "status": "",
+          "kind": "",
+          "collapsed": false
         },
         {
           "id": "g_645u8ew",
@@ -342,9 +357,13 @@
             "material": "SiN",
             "thickness": 200
           },
-          "entities": []
+          "entities": [],
+          "status": "",
+          "kind": "",
+          "collapsed": false
         }
-      ]
+      ],
+      "kind": "platforms"
     },
     {
       "id": "tab_3fpa8mf",
@@ -355,7 +374,8 @@
     {
       "id": "tab_o2lc29b",
       "name": "Post-Processing",
-      "groups": []
+      "groups": [],
+      "kind": "platforms"
     }
   ],
   "distribution": {
@@ -374,13 +394,35 @@
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "users",
-        "enabled": true
+        "enabled": false
       }
     ],
     "_defaultsSeeded": true,
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
-    "path": "OpenSource_PDKMonitor/dashboard.json"
+    "path": "OpenSource_PDKMonitor/dashboard.json",
+    "lastPublishedAt": "2026-05-24T20:14:48.859Z",
+    "lastPublishedSha": "bee7e195f14bc3920dbdbcce73536b1c23db6127",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/bee7e195f14bc3920dbdbcce73536b1c23db6127",
+    "lastFetchedAt": "2026-05-24T20:15:15.460Z",
+    "lastFetchedSha": "5ba6f3975357ef0cc06769bfe2d464704540c60a",
+    "lastMergeStats": {
+      "tabs": 0,
+      "groups": 0,
+      "entities": 0,
+      "contributors": 0,
+      "ownership": 0,
+      "labels": 0,
+      "statuses": 0,
+      "categories": 0,
+      "bbTypes": 0
+    },
+    "lastSecurityStats": {
+      "guestsAdded": 0,
+      "guestsKept": 5,
+      "contactEmailUpdated": false,
+      "labelsAdded": 0
+    }
   },
   "_distributedSecurity": {
     "guestPasswords": [
@@ -445,7 +487,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-24T20:14:48.859Z",
+    "publishedAt": "2026-05-24T20:15:55.759Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
@@ -454,5 +496,6 @@
     "bbCount": 0,
     "guestCount": 5,
     "termsVersion": "1.1.0"
-  }
+  },
+  "sketchLibrary": []
 }
