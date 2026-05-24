@@ -196,8 +196,15 @@
               "fabTabs": [],
               "plannedReleaseDate": "",
               "trl": null,
+              "smatrixGroups": [],
+              "customSketchUrl": "",
+              "customSketchName": "",
               "documents": [],
-              "smatrixGroups": []
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "fetchHistory": [],
+              "edaLinks": []
             }
           ]
         }
@@ -212,7 +219,7 @@
   },
   "contributors": [],
   "_distribution": {
-    "publishedAt": "2026-05-24T19:48:06.250Z",
+    "publishedAt": "2026-05-24T19:50:37.664Z",
     "publisherIdentity": "https://github.com/AEmreKaplan/",
     "publisherLabel": "CS_Emre",
     "publisherRole": "user-admin",
