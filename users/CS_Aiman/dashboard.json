@@ -232,7 +232,7 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-05-27T18:25:13.176Z",
+    "publishedAt": "2026-05-27T18:26:25.645Z",
     "publisherIdentity": "CS_Aiman",
     "publisherLabel": "CS_Aiman",
     "publisherRole": "user-admin",
@@ -245,10 +245,10 @@
     "sliceFor": "CS_Aiman",
     "termsVersion": "1.1.0",
     "externalized": {
-      "uploaded": 1,
+      "uploaded": 0,
       "skipped": 0,
       "failed": 0,
-      "reused": 0,
+      "reused": 1,
       "usersDir": "users/CS_Aiman/",
       "layoutVersion": "rev5-tab-named",
       "note": "Per-BB folder layout: users/CS_Aiman/<bb>/<section>/<file> — section folders are tab-named one-to-one with the BB-panel tabs: layout (GDS / OASIS + canonical YAML), smatrix (S-matrix datasets), tests, fab, scripts, documents (non-canonical YAMLs + other docs), eda (eda_links.json), files (loose BB-level files), variants (recursive). Each item carries `repoPath` instead of inline bytes; adopters hydrate via the fetch-time helper. Re-publish is idempotent."
