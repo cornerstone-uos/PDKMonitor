@@ -272,7 +272,204 @@
               "files": [],
               "scripts": [],
               "datasets": [],
-              "testGroups": [],
+              "testGroups": [
+                {
+                  "id": "tg_h1fstdf",
+                  "name": "Run0",
+                  "notesThread": [],
+                  "tests": [
+                    {
+                      "id": "t_vquh1s6",
+                      "name": "Row1Column1Angle10",
+                      "filename": "Row1Column1Angle10.xlsx",
+                      "kind": "xlsx",
+                      "size": 226092,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "hby1r25",
+                      "added": "2026-07-23T14:30:32.936Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/hby1r25/TFLN300_1550nm_TE_rib_eprop_apodised_GC_compact_v1p0__445ivy/tests/Row1Column1Angle10.xlsx",
+                      "repoSha": "1b815e65b933e105c841999da73157384f2da48b",
+                      "repoContentHash": "6gls_jkv35c"
+                    },
+                    {
+                      "id": "t_yg1m1qk",
+                      "name": "Row1Column2Angle10",
+                      "filename": "Row1Column2Angle10.xlsx",
+                      "kind": "xlsx",
+                      "size": 221831,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "hby1r25",
+                      "added": "2026-07-23T14:30:33.140Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/hby1r25/TFLN300_1550nm_TE_rib_eprop_apodised_GC_compact_v1p0__445ivy/tests/Row1Column2Angle10.xlsx",
+                      "repoSha": "6dac179d9a2f6c8f2b7e1a50e3a1357da9e33ed1",
+                      "repoContentHash": "6c80_e1mtc5"
+                    },
+                    {
+                      "id": "t_jncmsp3",
+                      "name": "Row1Column3Angle10",
+                      "filename": "Row1Column3Angle10.xlsx",
+                      "kind": "xlsx",
+                      "size": 220344,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "hby1r25",
+                      "added": "2026-07-23T14:30:33.215Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/hby1r25/TFLN300_1550nm_TE_rib_eprop_apodised_GC_compact_v1p0__445ivy/tests/Row1Column3Angle10.xlsx",
+                      "repoSha": "07eaf99f36701cd1774c9538d1a20dc281de7c17",
+                      "repoContentHash": "6aow_k4a2ze"
+                    },
+                    {
+                      "id": "t_9mqeo07",
+                      "name": "Row3Column1Angle10",
+                      "filename": "Row3Column1Angle10.xlsx",
+                      "kind": "xlsx",
+                      "size": 222723,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "hby1r25",
+                      "added": "2026-07-23T14:30:33.295Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/hby1r25/TFLN300_1550nm_TE_rib_eprop_apodised_GC_compact_v1p0__445ivy/tests/Row3Column1Angle10.xlsx",
+                      "repoSha": "137563a22a490dbf57b5de8179a92d74648a0b7a",
+                      "repoContentHash": "6d50_2isui5"
+                    },
+                    {
+                      "id": "t_x0pzms7",
+                      "name": "Row3Column2Angle10",
+                      "filename": "Row3Column2Angle10.xlsx",
+                      "kind": "xlsx",
+                      "size": 221832,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "hby1r25",
+                      "added": "2026-07-23T14:30:33.364Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/hby1r25/TFLN300_1550nm_TE_rib_eprop_apodised_GC_compact_v1p0__445ivy/tests/Row3Column2Angle10.xlsx",
+                      "repoSha": "5752311493509277e0b4e6a51c1e8ff2e721e3c3",
+                      "repoContentHash": "6c80_ztjggg"
+                    },
+                    {
+                      "id": "t_c8gnv2a",
+                      "name": "Row3Column3Angle10",
+                      "filename": "Row3Column3Angle10.xlsx",
+                      "kind": "xlsx",
+                      "size": 221900,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "hby1r25",
+                      "added": "2026-07-23T14:30:33.425Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/hby1r25/TFLN300_1550nm_TE_rib_eprop_apodised_GC_compact_v1p0__445ivy/tests/Row3Column3Angle10.xlsx",
+                      "repoSha": "11e3c098a45c279baf816eefaadf47dbae104e72",
+                      "repoContentHash": "6cak_6xp5u1"
+                    },
+                    {
+                      "id": "t_8njmnzx",
+                      "name": "Row5Column1Angle10",
+                      "filename": "Row5Column1Angle10.xlsx",
+                      "kind": "xlsx",
+                      "size": 222309,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "hby1r25",
+                      "added": "2026-07-23T14:30:33.500Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/hby1r25/TFLN300_1550nm_TE_rib_eprop_apodised_GC_compact_v1p0__445ivy/tests/Row5Column1Angle10.xlsx",
+                      "repoSha": "f9b776d1115a2d93278e20d5d4895f17e557b7cb",
+                      "repoContentHash": "6cpo_12cp24p"
+                    },
+                    {
+                      "id": "t_rc369v9",
+                      "name": "Row5Column2Angle10",
+                      "filename": "Row5Column2Angle10.xlsx",
+                      "kind": "xlsx",
+                      "size": 220804,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "hby1r25",
+                      "added": "2026-07-23T14:30:33.565Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/hby1r25/TFLN300_1550nm_TE_rib_eprop_apodised_GC_compact_v1p0__445ivy/tests/Row5Column2Angle10.xlsx",
+                      "repoSha": "f3e2b099227c7a330b9b132807c0a321688642b8",
+                      "repoContentHash": "6b60_17ru5y8"
+                    },
+                    {
+                      "id": "t_miauzkw",
+                      "name": "Row5Column3Angle10",
+                      "filename": "Row5Column3Angle10.xlsx",
+                      "kind": "xlsx",
+                      "size": 220328,
+                      "metadata": {
+                        "device_id": "",
+                        "date": "2026-07-23",
+                        "instrument": "",
+                        "conditions": "",
+                        "notes": ""
+                      },
+                      "who": "hby1r25",
+                      "added": "2026-07-23T14:30:33.626Z",
+                      "updated": "2026-07-23",
+                      "_externalized": true,
+                      "repoPath": "users/hby1r25/TFLN300_1550nm_TE_rib_eprop_apodised_GC_compact_v1p0__445ivy/tests/Row5Column3Angle10.xlsx",
+                      "repoSha": "4fa48e1afcd0a757e5dba41e63ddaa9693482ffa",
+                      "repoContentHash": "6aoc_15l2kyn"
+                    }
+                  ]
+                }
+              ],
               "documents": [
                 {
                   "id": "doc_em606pt",
@@ -314,10 +511,11 @@
               "trl": 1,
               "cloudBases": {},
               "canonicalYamlId": "doc_em606pt",
-              "smatrixGroups": [],
               "gdsRepoPath": "users/hby1r25/TFLN300_1550nm_TE_rib_eprop_apodised_GC_compact_v1p0__445ivy/layout/TFLN300_1550nm_TE_rib_eprop_apodised_GC_compact_v1p0.gds",
               "gdsRepoSha": "689af5bd7f77e35d5e2d705f137fbc0af4253082",
               "gdsContentHash": "1ves_xwmpu9",
+              "smatrixGroups": [],
+              "_gdsStripped": true,
               "_svgStripped": true
             }
           ]
@@ -363,7 +561,7 @@
   "contributors": [],
   "deletions": [],
   "_distribution": {
-    "publishedAt": "2026-07-23T14:28:42.268Z",
+    "publishedAt": "2026-07-23T14:34:24.940Z",
     "publisherIdentity": "hby1r25",
     "publisherLabel": "hby1r25",
     "publisherRole": "user-admin",
@@ -372,11 +570,11 @@
     "bbCount": 1,
     "groupCount": 6,
     "tabCount": 1,
-    "fileCount": 2,
+    "fileCount": 11,
     "sliceFor": "hby1r25",
     "termsVersion": "1.1.0",
     "externalized": {
-      "uploaded": 1,
+      "uploaded": 9,
       "skipped": 0,
       "failed": 0,
       "reused": 0,
@@ -385,12 +583,12 @@
       "note": "Per-BB folder layout: users/hby1r25/<bb>/<section>/<file> — section folders are tab-named one-to-one with the BB-panel tabs: layout (GDS / OASIS + canonical YAML), smatrix (S-matrix datasets), tests, fab, scripts, documents (non-canonical YAMLs + other docs), eda (eda_links.json), files (loose BB-level files), variants (recursive). Each item carries `repoPath` instead of inline bytes; adopters hydrate via the fetch-time helper. Re-publish is idempotent."
     },
     "stripped": {
-      "gdsContent": 0,
+      "gdsContent": 1,
       "layoutSvg": 1,
       "documents": 3,
       "datasets": 0,
       "parsed": 0,
-      "approxBytes": 393904,
+      "approxBytes": 481268,
       "note": "All embedded binaries (GDS, document data URLs, large SVGs, raw CSV / S-matrix bytes) were stripped from this published payload — only metadata remains. Adopters: run a per-BB or per-platform GitHub sync to repopulate the bytes from the original GitHub source."
     }
   }
