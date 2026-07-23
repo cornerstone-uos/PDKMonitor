@@ -243,10 +243,453 @@
       "name": "Responsivity",
       "unit": "A/W",
       "description": "Photodetector responsivity"
+    },
+    {
+      "id": "bm_s6af9hb",
+      "name": "Index contrast",
+      "unit": "-",
+      "description": "core/cladding refractive index ratio"
+    },
+    {
+      "id": "bm_fquqyig",
+      "name": "Wavelength bandwidth",
+      "unit": "nm",
+      "description": ""
+    },
+    {
+      "id": "bm_8hbuap3",
+      "name": "Index contrast (-)_2",
+      "unit": "-",
+      "description": ""
+    },
+    {
+      "id": "bm_cmg5ocm",
+      "name": "orphan-default",
+      "unit": "£/mm2",
+      "description": ""
     }
   ],
   "benchmarkData": {
-    "tables": {},
+    "tables": {
+      "bm_hnu2swh": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "GeonSi",
+            "87",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SiN without heaters",
+            "53",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SiN with heaters",
+            "113",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI Passive without heaters",
+            "228",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI Passive with heaters",
+            "545",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI active",
+            "1022",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ]
+        ],
+        "by": [
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin"
+        ]
+      },
+      "bm_921qwi7": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "SOI active",
+            "36",
+            "week",
+            "Delivery time from mask layout submission to shipment "
+          ],
+          [
+            "SOI passive",
+            "14",
+            "week",
+            "Delivery time from mask layout submission to shipment "
+          ],
+          [
+            "SiN",
+            "12",
+            "week",
+            "Delivery time from mask layout submission to shipment "
+          ],
+          [
+            "GeonSi",
+            "10",
+            "week",
+            "Delivery time from mask layout submission to shipment "
+          ]
+        ],
+        "by": [
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin"
+        ]
+      },
+      "bm_prop_loss": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "SiN (C-band)",
+            "0.5",
+            "dB/cm",
+            "MPW meas"
+          ],
+          [
+            "Suspended-Si (@3.8um)",
+            "1",
+            "dB/cm",
+            "MPW meas"
+          ],
+          [
+            "GeonSi (@3.8um)",
+            "1",
+            "dB/cm",
+            "MPW meas"
+          ],
+          [
+            "GeonSi (@6.1um)",
+            "1.5",
+            "dB/cm",
+            "MPW meas"
+          ],
+          [
+            "GeonSi (@7.6um)",
+            "3",
+            "dB/cm",
+            "MPW meas"
+          ],
+          [
+            "SOI (C-band)",
+            "3",
+            "dB/cm",
+            "MPW meas"
+          ],
+          [
+            "Suspended-Si (@7.7um)",
+            "3",
+            "dB/cm",
+            "MPW meas"
+          ]
+        ],
+        "by": [
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin"
+        ]
+      },
+      "bm_footprint": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [],
+        "by": []
+      },
+      "bm_fquqyig": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / wl",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [],
+        "by": []
+      },
+      "bm_il": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / wl",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [],
+        "by": []
+      },
+      "bm_pdc": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / wl",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [],
+        "by": []
+      },
+      "bm_vpi": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / wl",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [],
+        "by": []
+      },
+      "bm_vj1j95g": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [],
+        "by": []
+      },
+      "bm_er": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [],
+        "by": []
+      },
+      "bm_resp": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / λ",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [],
+        "by": []
+      },
+      "bm_8hbuap3": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Band / wl",
+          "Condition",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "SiN",
+            "1.37",
+            "-",
+            "1550nm",
+            "n_si3n4= 2 , n_sio2=1.45, n_air=1 @1550nm",
+            ""
+          ],
+          [
+            "TFLN",
+            "1.52",
+            "-",
+            "1550nm",
+            "n_ln= 2.21, n_sio2=1.45, n_air=1 @1550nm",
+            ""
+          ],
+          [
+            "SOI",
+            "2.50",
+            "-",
+            "1550nm",
+            "n_si= 3.47 , n_sio2=1.45, n_air=1 @1550nm",
+            ""
+          ],
+          [
+            "Suspended-Si",
+            "3.47",
+            "-",
+            "1550nm",
+            "n_si= 3.47  n_air=1 @1550nm",
+            ""
+          ],
+          [
+            "GeonSi",
+            "4.27",
+            "-",
+            "1550nm",
+            "n_ge= 4.27  n_air=1 @1550nm",
+            ""
+          ]
+        ],
+        "by": [
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin"
+        ]
+      },
+      "bm_cmg5ocm": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "GeonSi",
+            "87",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SiN without heaters",
+            "53",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SiN with heaters",
+            "113",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI Passive without heaters",
+            "228",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI Passive with heaters",
+            "545",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI active",
+            "1022",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ]
+        ],
+        "by": [
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin"
+        ]
+      },
+      "default": {
+        "cols": [
+          "Platform",
+          "Value",
+          "Unit",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "GeonSi",
+            "87",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SiN without heaters",
+            "53",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SiN with heaters",
+            "113",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI Passive without heaters",
+            "228",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI Passive with heaters",
+            "545",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ],
+          [
+            "SOI active",
+            "1022",
+            "£/mm2",
+            "CORNERSTONE 2026 MPW access cost"
+          ]
+        ],
+        "by": [
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin",
+          "Dashboard Admin"
+        ]
+      }
+    },
     "metric": "bm_921qwi7"
   },
   "tabs": [
@@ -262,7 +705,7 @@
             "material": "Si",
             "thickness": 220
           },
-          "collapsed": true,
+          "collapsed": false,
           "platformDocs": [],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_passive",
           "githubSubdir": "components",
@@ -286,7 +729,7 @@
             "material": "Si",
             "thickness": 220
           },
-          "collapsed": true,
+          "collapsed": false,
           "platformDocs": [],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_active",
           "githubSubdir": "components",
@@ -298,7 +741,7 @@
               "url": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_active",
               "subdir": "components",
               "enabled": true,
-              "lastImportedAt": "2026-06-23T10:34:15.693Z"
+              "lastImportedAt": "2026-07-23T13:06:43.574Z"
             }
           ],
           "entities": []
@@ -310,7 +753,7 @@
             "material": "Si",
             "thickness": 340
           },
-          "collapsed": true,
+          "collapsed": false,
           "platformDocs": [],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_340nm",
           "githubSubdir": "components",
@@ -354,7 +797,7 @@
             "material": "Si",
             "thickness": 500
           },
-          "collapsed": true,
+          "collapsed": false,
           "platformDocs": [],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_500nm",
           "githubSubdir": "components",
@@ -378,7 +821,7 @@
             "material": "Si",
             "thickness": 500
           },
-          "collapsed": true,
+          "collapsed": false,
           "platformDocs": [],
           "githubUrl": "https://github.com/drinwater/cornerstone-community/tree/main/Si_sus_bias",
           "githubSubdir": "components",
@@ -402,7 +845,7 @@
             "material": "Germanium",
             "thickness": 3000
           },
-          "collapsed": true,
+          "collapsed": false,
           "platformDocs": [],
           "githubUrl": "https://github.com/drinwater/cornerstone-community/tree/main/Ge_on_Si",
           "githubSubdir": "components",
@@ -426,7 +869,7 @@
             "material": "SiN",
             "thickness": 200
           },
-          "collapsed": true,
+          "collapsed": false,
           "platformDocs": [],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/SiN_200nm",
           "githubSubdir": "components",
@@ -450,7 +893,7 @@
             "material": "SiN",
             "thickness": 300
           },
-          "collapsed": true,
+          "collapsed": false,
           "platformDocs": [],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/SiN_300nm",
           "githubSubdir": "components",
@@ -474,7 +917,7 @@
             "material": "Si",
             "thickness": 220
           },
-          "collapsed": true,
+          "collapsed": false,
           "platformDocs": [],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Student_SOI",
           "githubSubdir": "components",
@@ -498,7 +941,7 @@
             "material": "LN",
             "thickness": 300
           },
-          "collapsed": true,
+          "collapsed": false,
           "platformDocs": [],
           "githubUrl": "",
           "githubSubdir": "",
@@ -513,7 +956,7 @@
             "material": "Si",
             "thickness": 220
           },
-          "collapsed": true,
+          "collapsed": false,
           "platformDocs": [],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Student_SOI",
           "githubSubdir": "components",
@@ -528,6 +971,21 @@
               "lastImportedAt": "2026-06-08T12:26:24.312Z"
             }
           ],
+          "entities": []
+        },
+        {
+          "id": "g_84kf3r2",
+          "name": "siin300-ON-SOI220",
+          "platformMeta": {
+            "material": "Si",
+            "thickness": 220
+          },
+          "collapsed": false,
+          "platformDocs": [],
+          "githubUrl": "",
+          "githubSubdir": "components",
+          "docsGithubUrl": "",
+          "githubSources": [],
           "entities": []
         }
       ]
@@ -627,20 +1085,31 @@
   ],
   "ownership": {
     "e_vzmjg06": "admin",
-    "layout:e_vzmjg06": "AEmreKaplan"
+    "layout:e_vzmjg06": "AEmreKaplan",
+    "g_84kf3r2": "Shengqi-Yin"
   },
-  "labels": {},
-  "contributors": [],
+  "labels": {
+    "Shengqi-Yin": "Shengqi-Yin"
+  },
+  "contributors": [
+    {
+      "identity": "Shengqi-Yin",
+      "name": "Shengqi-Yin",
+      "role": "user-admin",
+      "addedAt": "2026-07-23T13:29:21.892Z",
+      "fromSlice": "users/Shengqi-Yin/dashboard.json"
+    }
+  ],
   "deletions": [],
   "_distribution": {
-    "publishedAt": "2026-07-23T11:41:23.518Z",
+    "publishedAt": "2026-07-23T13:33:37.531Z",
     "publisherIdentity": "Shengqi-Yin",
     "publisherLabel": "Shengqi-Yin",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.1.0",
     "bbCount": 1,
-    "groupCount": 14,
+    "groupCount": 15,
     "tabCount": 4,
     "fileCount": 1,
     "sliceFor": "Shengqi-Yin",
