@@ -430,11 +430,11 @@
   "uploads": [],
   "tabs": [
     {
-      "id": "tab_xud9ph2",
+      "id": "tab_5u9qz3c",
       "name": "Technology Platforms",
       "groups": [
         {
-          "id": "g_5n79or9",
+          "id": "g_33vipon",
           "name": "SOI 220 nm",
           "platformMeta": {
             "material": "Si",
@@ -443,7 +443,7 @@
           "entities": []
         },
         {
-          "id": "g_1s3j40v",
+          "id": "g_q0ybh6r",
           "name": "SOI 340 nm",
           "platformMeta": {
             "material": "Si",
@@ -452,7 +452,7 @@
           "entities": []
         },
         {
-          "id": "g_l0tk3rp",
+          "id": "g_q4duj19",
           "name": "SOI 500 nm",
           "platformMeta": {
             "material": "Si",
@@ -461,7 +461,7 @@
           "entities": []
         },
         {
-          "id": "g_6rdu904",
+          "id": "g_ywqg7pi",
           "name": "TFLN 300 nm",
           "platformMeta": {
             "material": "LN",
@@ -470,7 +470,7 @@
           "entities": []
         },
         {
-          "id": "g_sejefxc",
+          "id": "g_wmfhsqm",
           "name": "SiN 300 nm",
           "platformMeta": {
             "material": "SiN",
@@ -479,7 +479,7 @@
           "entities": []
         },
         {
-          "id": "g_1utqvt7",
+          "id": "g_yaczmvh",
           "name": "SiN 200 nm",
           "platformMeta": {
             "material": "SiN",
@@ -571,7 +571,7 @@
   "sketchLibrary": [],
   "deletions": [],
   "_distribution": {
-    "publishedAt": "2026-07-23T11:41:48.838Z",
+    "publishedAt": "2026-07-23T11:45:50.299Z",
     "publisherIdentity": "hby1r25",
     "publisherLabel": "hby1r25",
     "publisherRole": "user-admin",
@@ -586,6 +586,15 @@
     "placeholder": true,
     "starter": true,
     "bootstrap": true,
-    "note": "Bootstrap publish — user 'hby1r25' has no own contributions yet. Starter dashboard shipped so the pool sees real content from day one. Future publishes will overwrite with the user's real work."
+    "note": "Bootstrap publish — user 'hby1r25' has no own contributions yet. The starter dashboard ships with the default platform skeleton so pool members see real content immediately. Future publishes from this user will overwrite with their actual contributions.",
+    "externalized": {
+      "uploaded": 0,
+      "skipped": 0,
+      "failed": 0,
+      "reused": 0,
+      "usersDir": "users/hby1r25/",
+      "layoutVersion": "rev5-tab-named",
+      "note": "Per-BB folder layout: users/hby1r25/<bb>/<section>/<file> — section folders are tab-named one-to-one with the BB-panel tabs: layout (GDS / OASIS + canonical YAML), smatrix (S-matrix datasets), tests, fab, scripts, documents (non-canonical YAMLs + other docs), eda (eda_links.json), files (loose BB-level files), variants (recursive). Each item carries `repoPath` instead of inline bytes; adopters hydrate via the fetch-time helper. Re-publish is idempotent."
+    }
   }
 }
