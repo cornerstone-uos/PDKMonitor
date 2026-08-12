@@ -45,4 +45,4 @@ The application collects no telemetry. Your working copy is stored in your
 browser (IndexedDB / localStorage). GitHub is the source of truth for shared
 content. A backup .json is downloaded before any merge or de-duplication.
 
-CORNERSTONE Open Platform PDK — pdk.cornerstone.soton.ac.uk
+CORNERSTONE Open Platform PDK — pdk.cornerstone@soton.ac.uk
