@@ -398,621 +398,6 @@
           ],
           "entities": [
             {
-              "id": "e_o03sxv8",
-              "name": "SOI220nm_1550nm_TE_RIB_Waveguide",
-              "files": [],
-              "scripts": [],
-              "documents": [
-                {
-                  "id": "d_znhnyvr",
-                  "name": "SOI220nm_1550nm_TE_RIB_Waveguide.yaml",
-                  "filename": "SOI220nm_1550nm_TE_RIB_Waveguide.yaml",
-                  "mime": "application/yaml",
-                  "size": 569,
-                  "bbType": "waveguide",
-                  "who": "zimmxx",
-                  "added": "2026-08-26",
-                  "description": "",
-                  "_stripped": true
-                }
-              ],
-              "testGroups": [
-                {
-                  "id": "tg_files",
-                  "name": "Files",
-                  "notesThread": [],
-                  "tests": [
-                    {
-                      "id": "t_d2dnxim",
-                      "name": "SOI220nm_1550nm_TE_RIB_Waveguide",
-                      "filename": "SOI220nm_1550nm_TE_RIB_Waveguide.jpg",
-                      "kind": "jpg",
-                      "size": 335732,
-                      "parsed": null,
-                      "rawText": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:47:35.877Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/SOI220nm_1550nm_TE_RIB_Waveguide.jpg",
-                      "repoSha": "242e05f6294cbc554b1d051106cd093de8ba6a56",
-                      "repoContentHash": "9lek_raan4a",
-                      "_stripped": true
-                    },
-                    {
-                      "id": "t_nzohfuc",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG1",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:27.121Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG1.txt",
-                      "repoSha": "522c12415f2409f8c4be3de377a810afd368f82f",
-                      "repoContentHash": "flrs_qg122x",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_ft8ssjn",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG2",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:27.630Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG2.txt",
-                      "repoSha": "00396774fb8c4b6ce65530b3dc4762d234936b9b",
-                      "repoContentHash": "flrs_m5r3l6",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_whahjtr",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG3",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:28.307Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG3.txt",
-                      "repoSha": "912dbc8ea86259ca4359f562586b8d9fa19cdcaa",
-                      "repoContentHash": "flrs_2syloq",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_whi6shi",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG4",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:28.734Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG4.txt",
-                      "repoSha": "da08d171a732e7382a6ef47fc20c0c8bace46ebd",
-                      "repoContentHash": "flrs_18mbm2z",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_o4jyw5t",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG5",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:29.204Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG5.txt",
-                      "repoSha": "96991f6160c98d5d017320e58462f28af1f1359e",
-                      "repoContentHash": "flrs_jthrwp",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_gnl0jbt",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG6",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:29.767Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip25_WG6.txt",
-                      "repoSha": "bf271e3aca909b960db930f6de1c29873e2a971e",
-                      "repoContentHash": "flrs_bw6ix4",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_ao8x8ei",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG1",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:30.210Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG1.txt",
-                      "repoSha": "2f3dbf680de647b56352d54fa8e6605bf5adef57",
-                      "repoContentHash": "flrs_jsx0ay",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_3t5s0eb",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG2",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:30.762Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG2.txt",
-                      "repoSha": "69da6017796cdbd7dd95374c73ef958c5f5ae370",
-                      "repoContentHash": "flrs_g6y3hl",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_r4ystgt",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG3",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:31.111Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG3.txt",
-                      "repoSha": "1faf3aaf72ad1b0aff254b9a5a1e61993f012a5b",
-                      "repoContentHash": "flrs_18v694",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_22v5yp3",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG4",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:31.487Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG4.txt",
-                      "repoSha": "fe2013ae422fdd34cc88d47f570eac983007a278",
-                      "repoContentHash": "flrs_1871zih",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_dm6lveg",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG5",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:32.074Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG5.txt",
-                      "repoSha": "9427c5496f8aadb23f352dcc7dd38dc23acf02ab",
-                      "repoContentHash": "flrs_1cjbnu3",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_nrpyi7a",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG6",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:32.677Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip29_WG6.txt",
-                      "repoSha": "f9f8bfbf487d3f13efe0ce4b1b15217d2321df64",
-                      "repoContentHash": "flrs_qxtjaj",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_6xhnyl5",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG1",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:33.105Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG1.txt",
-                      "repoSha": "8e49b5dfd9c841a587089869875174d302c9334d",
-                      "repoContentHash": "flrs_1nu0ui3",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_xfuelxv",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG2",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:33.668Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG2.txt",
-                      "repoSha": "273e608f1ac52d2e2664c9f6d403500806282dc9",
-                      "repoContentHash": "flrs_tl0l8r",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_3f6iofc",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG3",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:34.090Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG3.txt",
-                      "repoSha": "6ec5f45f1c691a908d9af58b3e945e3ed57c1301",
-                      "repoContentHash": "flrs_m9qj8r",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_rx4o4tl",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG4",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:34.467Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG4.txt",
-                      "repoSha": "7446320eb97c5459d281d916b5a19bbd636fa7f9",
-                      "repoContentHash": "flrs_1t2uxd4",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_bpp4ty3",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG5",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:34.810Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG5.txt",
-                      "repoSha": "8cfc9764a631fb0af2552297902e914b5098adfc",
-                      "repoContentHash": "flrs_z1m4ko",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_l3nugof",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG6",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:35.169Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip53_WG6.txt",
-                      "repoSha": "c0c0ec5e4e6fb9cc4cd1d3834d7d0ff40d59cac6",
-                      "repoContentHash": "flrs_1i5c04r",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_dl1kem0",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG1",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG1.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:35.818Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG1.txt",
-                      "repoSha": "3d3d8ced3ed29e3d5ed189a1f72436638f9521d1",
-                      "repoContentHash": "flrs_1v1kht6",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_dos2vmg",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG2",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG2.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:36.289Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG2.txt",
-                      "repoSha": "02d17b48be690a5babb4888d93fb694dd8a47f7a",
-                      "repoContentHash": "flrs_1x91t48",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_a3g6t5x",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG3",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG3.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:36.636Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG3.txt",
-                      "repoSha": "94ebebf2f88eb8d3359f22f72a2a24576f4777fa",
-                      "repoContentHash": "flrs_15o4pre",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_k5zw5sk",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG4",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG4.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:37.085Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG4.txt",
-                      "repoSha": "2d1a745c2370f75e26a2e82c37b2421f51c1285f",
-                      "repoContentHash": "flrs_ffti8a",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_jw28swb",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG5",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG5.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:37.444Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG5.txt",
-                      "repoSha": "6d6af6651cb4a610e21b0a7a6721c4eafc2f0351",
-                      "repoContentHash": "flrs_1ppgpii",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    },
-                    {
-                      "id": "t_8rnieiy",
-                      "name": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG6",
-                      "filename": "WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG6.txt",
-                      "kind": "txt",
-                      "size": 546042,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-08-26",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "zimmxx",
-                      "added": "2026-08-26T08:50:37.882Z",
-                      "updated": "2026-08-26",
-                      "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/tests/WaferMPW45_slot5_rib_fastfibrev3_test1_Chip65_WG6.txt",
-                      "repoSha": "704a7665cc6f47aad482f958bf72ff367b055839",
-                      "repoContentHash": "flrs_qrz5oq",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
-                }
-              ],
-              "smatrixGroups": [],
-              "fabTabs": [],
-              "descriptionContributions": [
-                {
-                  "id": "nc_5uadeak",
-                  "text": "MPW60 meas. missing\nFDTD simi to be added",
-                  "who": "AEmreKaplan",
-                  "ts": 1784808170107
-                }
-              ],
-              "_contribOnly": true
-            },
-            {
               "id": "e_se3wwq8",
               "name": "SOI220nm_1550nm_TE_STRIP_Waveguide",
               "status": "available",
@@ -1401,10 +786,11 @@
                       "added": "2026-08-26T11:54:43.505Z",
                       "updated": "2026-08-26",
                       "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_STRIP_Waveguide__e3wwq8/tests/Chip45_WG1.txt",
-                      "repoSha": "10cb66e7cfbfb05ab7cc8f083781bb2c682faa30",
-                      "repoContentHash": "it0k_1pj3c5e",
+                      "repoSha": "c67519e0fa8d1814465c3156bfd90191e53de300",
+                      "repoContentHash": "ixgk_iwco2n",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_externalized": true
                     },
                     {
                       "id": "t_4f1isoy",
@@ -1423,10 +809,11 @@
                       "added": "2026-08-26T11:54:43.518Z",
                       "updated": "2026-08-26",
                       "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_STRIP_Waveguide__e3wwq8/tests/Chip45_WG2.txt",
-                      "repoSha": "ba814edd926394320546be11daaa7655522b684b",
-                      "repoContentHash": "iu0o_esfj45",
+                      "repoSha": "5a561c4a45d2095967ea931b25488e6a8d572c6a",
+                      "repoContentHash": "iy90_o6w5kw",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_externalized": true
                     },
                     {
                       "id": "t_uvt3bxt",
@@ -1445,10 +832,11 @@
                       "added": "2026-08-26T11:54:43.533Z",
                       "updated": "2026-08-26",
                       "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_STRIP_Waveguide__e3wwq8/tests/Chip45_WG3.txt",
-                      "repoSha": "1e430beba414f2e34ccf48ff94c3ef4f745804ea",
-                      "repoContentHash": "ivxk_glsyss",
+                      "repoSha": "f97655d43fc110ee20d50f095701221fafd4cf7b",
+                      "repoContentHash": "iz8k_fbrmx6",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_externalized": true
                     },
                     {
                       "id": "t_whtj3jt",
@@ -1467,10 +855,11 @@
                       "added": "2026-08-26T11:54:43.546Z",
                       "updated": "2026-08-26",
                       "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_STRIP_Waveguide__e3wwq8/tests/Chip45_WG4.txt",
-                      "repoSha": "9a912d8d1e8dfe81a3912654fb10f44e81d5b089",
-                      "repoContentHash": "iwkw_ic9mbm",
+                      "repoSha": "5359d06a678a4718f7b171a91a14c7b82f984611",
+                      "repoContentHash": "j1hg_p92m3b",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_externalized": true
                     },
                     {
                       "id": "t_vr62wse",
@@ -1665,10 +1054,11 @@
                       "added": "2026-08-26T11:54:43.660Z",
                       "updated": "2026-08-26",
                       "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_STRIP_Waveguide__e3wwq8/tests/Chip57_WG1.txt",
-                      "repoSha": "3584341110c8eb5450d1d82b55b717aa282b22c8",
-                      "repoContentHash": "iszs_19biwo",
+                      "repoSha": "28c42bb5aff91a47915b1bff9aad3704c64d2b39",
+                      "repoContentHash": "ivqg_sbuqmh",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_externalized": true
                     },
                     {
                       "id": "t_hpn6b4c",
@@ -1687,10 +1077,11 @@
                       "added": "2026-08-26T11:54:43.673Z",
                       "updated": "2026-08-26",
                       "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_STRIP_Waveguide__e3wwq8/tests/Chip57_WG2.txt",
-                      "repoSha": "7091b7aa0fdd26272cde245d93738e27145804f0",
-                      "repoContentHash": "ists_kg33n7",
+                      "repoSha": "dec1371f0d0e9844752c0214b520c0f45ba60e61",
+                      "repoContentHash": "ixc0_oc5jgn",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_externalized": true
                     },
                     {
                       "id": "t_y68xtzo",
@@ -1709,10 +1100,11 @@
                       "added": "2026-08-26T11:54:43.686Z",
                       "updated": "2026-08-26",
                       "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_STRIP_Waveguide__e3wwq8/tests/Chip57_WG3.txt",
-                      "repoSha": "e2a157fec5c034c63e63d0556a3d4d3702842ed2",
-                      "repoContentHash": "iv9o_18serkc",
+                      "repoSha": "4a8fc46c7bad4f9bb37a2333c76aec9415e72501",
+                      "repoContentHash": "iyis_v1l2xk",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_externalized": true
                     },
                     {
                       "id": "t_6vz70tj",
@@ -1731,10 +1123,11 @@
                       "added": "2026-08-26T11:54:43.700Z",
                       "updated": "2026-08-26",
                       "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_STRIP_Waveguide__e3wwq8/tests/Chip57_WG4.txt",
-                      "repoSha": "b5444b76369f3f6170c29cee48a43f8835badded",
-                      "repoContentHash": "iw8o_18bsp21",
+                      "repoSha": "60f1f3ed24577054675af647b70832b8b1654f16",
+                      "repoContentHash": "izy0_1h4tb24",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_externalized": true
                     },
                     {
                       "id": "t_w9nhi7k",
@@ -1753,10 +1146,11 @@
                       "added": "2026-08-26T11:54:43.714Z",
                       "updated": "2026-08-26",
                       "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_STRIP_Waveguide__e3wwq8/tests/Chip61_WG1.txt",
-                      "repoSha": "59e3665ba39f00ab761bab50ef6a06c4dda4736c",
-                      "repoContentHash": "ivow_16yfkn2",
+                      "repoSha": "6da3ffc87d93ea09232c6244fee23a2c8a3a60ef",
+                      "repoContentHash": "iygg_1ckhngz",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_externalized": true
                     },
                     {
                       "id": "t_xtr7504",
@@ -1775,10 +1169,11 @@
                       "added": "2026-08-26T11:54:43.730Z",
                       "updated": "2026-08-26",
                       "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_STRIP_Waveguide__e3wwq8/tests/Chip61_WG2.txt",
-                      "repoSha": "c81ac9e96aa9b10aef6d3a33e44f48cb312eda46",
-                      "repoContentHash": "ivew_b5g0op",
+                      "repoSha": "014b95ca0e1684044c76492f1f80871f6f2a5bc8",
+                      "repoContentHash": "izu0_n37fzi",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_externalized": true
                     },
                     {
                       "id": "t_mksnhch",
@@ -1797,10 +1192,11 @@
                       "added": "2026-08-26T11:54:43.744Z",
                       "updated": "2026-08-26",
                       "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_STRIP_Waveguide__e3wwq8/tests/Chip61_WG3.txt",
-                      "repoSha": "f13dc7e36bb7a39cd48c4105f81b75538a65671f",
-                      "repoContentHash": "iw94_1kwxp3z",
+                      "repoSha": "d5d676375bb71e766272097c335db281d8911d0d",
+                      "repoContentHash": "j0ww_nl7iol",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_externalized": true
                     },
                     {
                       "id": "t_4c0w3j7",
@@ -1819,10 +1215,11 @@
                       "added": "2026-08-26T11:54:43.763Z",
                       "updated": "2026-08-26",
                       "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_STRIP_Waveguide__e3wwq8/tests/Chip61_WG4.txt",
-                      "repoSha": "e627ebafc44cd81f99d595974b5ef5ee48f48455",
-                      "repoContentHash": "iyu4_mlmjo",
+                      "repoSha": "0505d8605935324c711de4fd73bcb592bf3c73f4",
+                      "repoContentHash": "j2n0_11r69n5",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_externalized": true
                     },
                     {
                       "id": "t_ikyxke3",
@@ -2017,9 +1414,10 @@
                       "added": "2026-08-26T11:54:43.901Z",
                       "updated": "2026-08-26",
                       "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_STRIP_Waveguide__e3wwq8/tests/filename-manifest.csv",
-                      "repoSha": "d5b16aaf7a895e63e53ecacd6222fa4f32fabc5e",
-                      "repoContentHash": "82s_pj83kj",
-                      "_stripped": true
+                      "repoSha": "abddba4fba7aa3fdd11b7353a28e6677a950db47",
+                      "repoContentHash": "83o_xui143",
+                      "_stripped": true,
+                      "_externalized": true
                     },
                     {
                       "id": "t_5fvd2nv",
@@ -2038,10 +1436,11 @@
                       "added": "2026-08-26T11:54:43.905Z",
                       "updated": "2026-08-26",
                       "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_STRIP_Waveguide__e3wwq8/tests/metadata.json",
-                      "repoSha": "2369931689622de5c684e68ffaf8702c32e62f49",
-                      "repoContentHash": "8co_lh2z9c",
+                      "repoSha": "e6fbae189a83eeadd40c1ccdb55721198ea20ebf",
+                      "repoContentHash": "8d4_xz0bgk",
                       "_stripped": true,
-                      "_parsedStripped": true
+                      "_parsedStripped": true,
+                      "_externalized": true
                     },
                     {
                       "id": "t_mloh90l",
@@ -2060,9 +1459,10 @@
                       "added": "2026-08-26T11:54:43.907Z",
                       "updated": "2026-08-26",
                       "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_STRIP_Waveguide__e3wwq8/tests/README.md",
-                      "repoSha": "e6977c4b52819526db0f13cce1f0d8d9b5205668",
-                      "repoContentHash": "1j8_rzeybt",
-                      "_stripped": true
+                      "repoSha": "61247a250cb926c6c889cabb642c246dcfec82ac",
+                      "repoContentHash": "1jo_19t6ibp",
+                      "_stripped": true,
+                      "_externalized": true
                     },
                     {
                       "id": "t_5t6zjqu",
@@ -2102,9 +1502,10 @@
                       "added": "2026-08-26T11:54:43.912Z",
                       "updated": "2026-08-26",
                       "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_STRIP_Waveguide__e3wwq8/tests/waveguide-config.json",
-                      "repoSha": "219196f81be6d360d63a7d014eb76c1cb81441a6",
-                      "repoContentHash": "fc_h0kj4f",
-                      "_stripped": true
+                      "repoSha": "a59563fd933c659b27c4d7170655a796d6aef1ec",
+                      "repoContentHash": "fc_9riccg",
+                      "_stripped": true,
+                      "_externalized": true
                     }
                   ]
                 }
@@ -2172,6 +1573,25 @@
               "gdsRepoSha": "d5bf68f0a7d13137b320d8198e63c9b2c80380bd",
               "gdsContentHash": "7g_1pmgz2n",
               "_gdsStripped": true
+            },
+            {
+              "id": "e_o03sxv8",
+              "name": "SOI220nm_1550nm_TE_RIB_Waveguide",
+              "files": [],
+              "scripts": [],
+              "documents": [],
+              "testGroups": [],
+              "smatrixGroups": [],
+              "fabTabs": [],
+              "descriptionContributions": [
+                {
+                  "id": "nc_5uadeak",
+                  "text": "MPW60 meas. missing\nFDTD simi to be added",
+                  "who": "AEmreKaplan",
+                  "ts": 1784808170107
+                }
+              ],
+              "_contribOnly": true
             }
           ]
         },
@@ -2428,7 +1848,7 @@
             "material": "Si",
             "thickness": 220
           },
-          "collapsed": false,
+          "collapsed": true,
           "platformDocs": [],
           "githubUrl": "",
           "githubSubdir": "",
@@ -2532,9 +1952,9 @@
     }
   ],
   "ownership": {
+    "e_se3wwq8": "zimmxx",
     "e_o03sxv8": "admin",
-    "layout:e_o03sxv8": "zimmxx",
-    "e_se3wwq8": "zimmxx"
+    "layout:e_o03sxv8": "zimmxx"
   },
   "labels": {
     "zimmxx": "zimmxx"
@@ -2727,7 +2147,7 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-08-26T12:20:31.566Z",
+    "publishedAt": "2026-08-26T15:06:06.400Z",
     "publisherIdentity": "zimmxx",
     "publisherLabel": "Aiman Hazim Shafizam",
     "publisherRole": "user-admin",
@@ -2736,14 +2156,14 @@
     "bbCount": 2,
     "groupCount": 16,
     "tabCount": 4,
-    "fileCount": 80,
+    "fileCount": 54,
     "sliceFor": "zimmxx",
     "termsVersion": "1.1.0",
     "externalized": {
-      "uploaded": 0,
+      "uploaded": 16,
       "skipped": 0,
       "failed": 0,
-      "reused": 77,
+      "reused": 36,
       "usersDir": "users/zimmxx/",
       "layoutVersion": "rev5-tab-named",
       "note": "Per-BB folder layout: users/zimmxx/<bb>/<section>/<file> — section folders are tab-named one-to-one with the BB-panel tabs: layout (GDS / OASIS + canonical YAML), smatrix (S-matrix datasets), tests, fab, scripts, documents (non-canonical YAMLs + other docs), eda (eda_links.json), files (loose BB-level files), variants (recursive). Each item carries `repoPath` instead of inline bytes; adopters hydrate via the fetch-time helper. Re-publish is idempotent."
@@ -2752,9 +2172,9 @@
       "gdsContent": 0,
       "layoutSvg": 0,
       "documents": 0,
-      "datasets": 90,
-      "parsed": 41,
-      "approxBytes": 87382985,
+      "datasets": 58,
+      "parsed": 28,
+      "approxBytes": 61158252,
       "note": "All embedded binaries (GDS, document data URLs, large SVGs, raw CSV / S-matrix bytes) were stripped from this published payload — only metadata remains. Adopters: run a per-BB or per-platform GitHub sync to repopulate the bytes from the original GitHub source."
     }
   }
