@@ -789,8 +789,7 @@
                       "repoSha": "c67519e0fa8d1814465c3156bfd90191e53de300",
                       "repoContentHash": "ixgk_iwco2n",
                       "_stripped": true,
-                      "_parsedStripped": true,
-                      "_externalized": true
+                      "_parsedStripped": true
                     },
                     {
                       "id": "t_4f1isoy",
@@ -812,8 +811,7 @@
                       "repoSha": "5a561c4a45d2095967ea931b25488e6a8d572c6a",
                       "repoContentHash": "iy90_o6w5kw",
                       "_stripped": true,
-                      "_parsedStripped": true,
-                      "_externalized": true
+                      "_parsedStripped": true
                     },
                     {
                       "id": "t_uvt3bxt",
@@ -835,8 +833,7 @@
                       "repoSha": "f97655d43fc110ee20d50f095701221fafd4cf7b",
                       "repoContentHash": "iz8k_fbrmx6",
                       "_stripped": true,
-                      "_parsedStripped": true,
-                      "_externalized": true
+                      "_parsedStripped": true
                     },
                     {
                       "id": "t_whtj3jt",
@@ -858,8 +855,7 @@
                       "repoSha": "5359d06a678a4718f7b171a91a14c7b82f984611",
                       "repoContentHash": "j1hg_p92m3b",
                       "_stripped": true,
-                      "_parsedStripped": true,
-                      "_externalized": true
+                      "_parsedStripped": true
                     },
                     {
                       "id": "t_vr62wse",
@@ -1057,8 +1053,7 @@
                       "repoSha": "28c42bb5aff91a47915b1bff9aad3704c64d2b39",
                       "repoContentHash": "ivqg_sbuqmh",
                       "_stripped": true,
-                      "_parsedStripped": true,
-                      "_externalized": true
+                      "_parsedStripped": true
                     },
                     {
                       "id": "t_hpn6b4c",
@@ -1080,8 +1075,7 @@
                       "repoSha": "dec1371f0d0e9844752c0214b520c0f45ba60e61",
                       "repoContentHash": "ixc0_oc5jgn",
                       "_stripped": true,
-                      "_parsedStripped": true,
-                      "_externalized": true
+                      "_parsedStripped": true
                     },
                     {
                       "id": "t_y68xtzo",
@@ -1103,8 +1097,7 @@
                       "repoSha": "4a8fc46c7bad4f9bb37a2333c76aec9415e72501",
                       "repoContentHash": "iyis_v1l2xk",
                       "_stripped": true,
-                      "_parsedStripped": true,
-                      "_externalized": true
+                      "_parsedStripped": true
                     },
                     {
                       "id": "t_6vz70tj",
@@ -1126,8 +1119,7 @@
                       "repoSha": "60f1f3ed24577054675af647b70832b8b1654f16",
                       "repoContentHash": "izy0_1h4tb24",
                       "_stripped": true,
-                      "_parsedStripped": true,
-                      "_externalized": true
+                      "_parsedStripped": true
                     },
                     {
                       "id": "t_w9nhi7k",
@@ -1149,8 +1141,7 @@
                       "repoSha": "6da3ffc87d93ea09232c6244fee23a2c8a3a60ef",
                       "repoContentHash": "iygg_1ckhngz",
                       "_stripped": true,
-                      "_parsedStripped": true,
-                      "_externalized": true
+                      "_parsedStripped": true
                     },
                     {
                       "id": "t_xtr7504",
@@ -1172,8 +1163,7 @@
                       "repoSha": "014b95ca0e1684044c76492f1f80871f6f2a5bc8",
                       "repoContentHash": "izu0_n37fzi",
                       "_stripped": true,
-                      "_parsedStripped": true,
-                      "_externalized": true
+                      "_parsedStripped": true
                     },
                     {
                       "id": "t_mksnhch",
@@ -1195,8 +1185,7 @@
                       "repoSha": "d5d676375bb71e766272097c335db281d8911d0d",
                       "repoContentHash": "j0ww_nl7iol",
                       "_stripped": true,
-                      "_parsedStripped": true,
-                      "_externalized": true
+                      "_parsedStripped": true
                     },
                     {
                       "id": "t_4c0w3j7",
@@ -1218,8 +1207,7 @@
                       "repoSha": "0505d8605935324c711de4fd73bcb592bf3c73f4",
                       "repoContentHash": "j2n0_11r69n5",
                       "_stripped": true,
-                      "_parsedStripped": true,
-                      "_externalized": true
+                      "_parsedStripped": true
                     },
                     {
                       "id": "t_ikyxke3",
@@ -1416,8 +1404,7 @@
                       "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_STRIP_Waveguide__e3wwq8/tests/filename-manifest.csv",
                       "repoSha": "abddba4fba7aa3fdd11b7353a28e6677a950db47",
                       "repoContentHash": "83o_xui143",
-                      "_stripped": true,
-                      "_externalized": true
+                      "_stripped": true
                     },
                     {
                       "id": "t_5fvd2nv",
@@ -1439,8 +1426,7 @@
                       "repoSha": "e6fbae189a83eeadd40c1ccdb55721198ea20ebf",
                       "repoContentHash": "8d4_xz0bgk",
                       "_stripped": true,
-                      "_parsedStripped": true,
-                      "_externalized": true
+                      "_parsedStripped": true
                     },
                     {
                       "id": "t_mloh90l",
@@ -1461,8 +1447,7 @@
                       "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_STRIP_Waveguide__e3wwq8/tests/README.md",
                       "repoSha": "61247a250cb926c6c889cabb642c246dcfec82ac",
                       "repoContentHash": "1jo_19t6ibp",
-                      "_stripped": true,
-                      "_externalized": true
+                      "_stripped": true
                     },
                     {
                       "id": "t_5t6zjqu",
@@ -1504,8 +1489,7 @@
                       "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_STRIP_Waveguide__e3wwq8/tests/waveguide-config.json",
                       "repoSha": "a59563fd933c659b27c4d7170655a796d6aef1ec",
                       "repoContentHash": "fc_9riccg",
-                      "_stripped": true,
-                      "_externalized": true
+                      "_stripped": true
                     }
                   ]
                 }
@@ -1578,7 +1562,78 @@
               "id": "e_o03sxv8",
               "name": "SOI220nm_1550nm_TE_RIB_Waveguide",
               "files": [],
-              "scripts": [],
+              "scripts": [
+                {
+                  "id": "s_ts67x1k",
+                  "name": "plot_transmission_Aiman_W_v1",
+                  "language": "python",
+                  "source": "# Created by: Aiman Hazim Shafizam (CORNERSTONE)\n# Date created: 2026-08-26\n# Version: 1.0\n# Changes:\n#   v1.0 (2026-08-26) - Initial raw optical-power transmission plot.\n\n\"\"\"Plot one PDKMonitor transmission trace as optical power in watts.\n\nRun this saved script from an individual TXT test card. PDKMonitor supplies\n``test`` and provides ``emit(fig)`` through its Python bootstrap.\n\"\"\"\n\nimport math\n\nimport matplotlib.pyplot as plt\n\n\nTARGET_WAVELENGTH_NM = 1550.0\nWINDOW_NM = 5.0\n\n\ndef _native(value):\n    if hasattr(value, \"to_py\"):\n        try:\n            return value.to_py()\n        except Exception:\n            pass\n    return value\n\n\ndef _finite_pairs(xs, ys):\n    pairs = []\n    for x, y in zip(xs or [], ys or []):\n        try:\n            x_value = float(x)\n            y_value = float(y)\n        except (TypeError, ValueError):\n            continue\n        if math.isfinite(x_value) and math.isfinite(y_value):\n            pairs.append((x_value, y_value))\n    return pairs\n\n\nactive_test = _native(globals().get(\"test\"))\nif not isinstance(active_test, dict):\n    print(\"Run this script from an individual parsed TXT test file.\")\nelse:\n    parsed = _native(active_test.get(\"parsed\"))\n    if not isinstance(parsed, dict):\n        print(f\"No parsed data on '{active_test.get('name', '?')}'.\")\n    else:\n        sweep = _native(parsed.get(\"sweep\")) or {}\n        traces = _native(parsed.get(\"traces\")) or []\n        wavelengths = _native(sweep.get(\"values\")) or []\n        x_name = sweep.get(\"name\") or \"wavelength_nm\"\n\n        fig, ax = plt.subplots(figsize=(9.2, 4.8))\n        plotted = []\n        for trace in traces:\n            trace = _native(trace) or {}\n            pairs = _finite_pairs(wavelengths, _native(trace.get(\"values\")) or [])\n            if not pairs:\n                continue\n            xs = [point[0] for point in pairs]\n            ys = [point[1] for point in pairs]\n            label = trace.get(\"name\") or active_test.get(\"name\") or \"transmission\"\n            ax.plot(xs, ys, lw=1.0, label=label)\n            peak_index = max(range(len(ys)), key=ys.__getitem__)\n            plotted.append((label, xs, ys, peak_index))\n\n        if not plotted:\n            plt.close(fig)\n            print(f\"No finite wavelength/power values on '{active_test.get('name', '?')}'.\")\n        else:\n            metadata = _native(active_test.get(\"metadata\")) or {}\n            title = metadata.get(\"device_id\") or active_test.get(\"name\") or \"Transmission\"\n            ax.set_xlabel(str(x_name).replace(\"_\", \" \"))\n            ax.set_ylabel(\"Optical power (W)\")\n            ax.set_title(f\"Transmission (W) — {title}\")\n            ax.grid(True, alpha=0.3)\n            if len(plotted) > 1:\n                ax.legend(fontsize=8, loc=\"best\")\n            fig.tight_layout()\n\n            print(f\"Test: {active_test.get('name', '?')}\")\n            for label, xs, ys, peak_index in plotted:\n                window_values = [\n                    y for x, y in zip(xs, ys)\n                    if abs(x - TARGET_WAVELENGTH_NM) <= WINDOW_NM\n                ]\n                window_average = (\n                    sum(window_values) / len(window_values) if window_values else float(\"nan\")\n                )\n                print(\n                    f\"  {label}: {len(ys)} points | \"\n                    f\"wavelength={min(xs):.3f}-{max(xs):.3f} nm | \"\n                    f\"min={min(ys):.6e} W | max={max(ys):.6e} W | \"\n                    f\"peak wavelength={xs[peak_index]:.3f} nm\"\n                )\n                print(\n                    f\"  target-window average: {window_average:.6e} W \"\n                    f\"@ {TARGET_WAVELENGTH_NM:.1f} +/- {WINDOW_NM:.1f} nm \"\n                    f\"({len(window_values)} points)\"\n                )\n\n            # Keep emit as the final stdout-producing operation. PDKMonitor's\n            # current stdout collector can corrupt a PNG if text follows it.\n            emit(fig)\n",
+                  "command": "python ./scripts/plot_transmission_Aiman_W_v1 <data.csv>",
+                  "who": "zimmxx",
+                  "added": "2026-08-26T15:08:36.470Z",
+                  "updated": "2026-08-26",
+                  "_externalized": true,
+                  "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/scripts/plot_transmission_Aiman_W_v1",
+                  "repoSha": "1b51da9c71082cd524524b3f328daa0d3035e12c",
+                  "repoContentHash": "418_1d7d6l8"
+                },
+                {
+                  "id": "s_zpwa21n",
+                  "name": "plot_transmission_Aiman_dB_v1",
+                  "language": "python",
+                  "source": "# Created by: Aiman Hazim Shafizam (CORNERSTONE)\n# Date created: 2026-08-26\n# Version: 1.0\n# Changes:\n#   v1.0 (2026-08-26) - Initial peak-normalised dB transmission plot.\n\n\"\"\"Plot one PDKMonitor transmission trace in dB, normalised to its peak.\n\nRun this saved script from an individual TXT test card. Non-positive power\nsamples are ignored because they cannot be converted to logarithmic units.\n\"\"\"\n\nimport math\n\nimport matplotlib.pyplot as plt\n\n\ndef _native(value):\n    if hasattr(value, \"to_py\"):\n        try:\n            return value.to_py()\n        except Exception:\n            pass\n    return value\n\n\ndef _positive_pairs(xs, ys):\n    pairs = []\n    for x, y in zip(xs or [], ys or []):\n        try:\n            x_value = float(x)\n            y_value = float(y)\n        except (TypeError, ValueError):\n            continue\n        if math.isfinite(x_value) and math.isfinite(y_value) and y_value > 0:\n            pairs.append((x_value, y_value))\n    return pairs\n\n\nactive_test = _native(globals().get(\"test\"))\nif not isinstance(active_test, dict):\n    print(\"Run this script from an individual parsed TXT test file.\")\nelse:\n    parsed = _native(active_test.get(\"parsed\"))\n    if not isinstance(parsed, dict):\n        print(f\"No parsed data on '{active_test.get('name', '?')}'.\")\n    else:\n        sweep = _native(parsed.get(\"sweep\")) or {}\n        traces = _native(parsed.get(\"traces\")) or []\n        wavelengths = _native(sweep.get(\"values\")) or []\n        x_name = sweep.get(\"name\") or \"wavelength_nm\"\n\n        fig, ax = plt.subplots(figsize=(9.2, 4.8))\n        plotted = []\n        for trace in traces:\n            trace = _native(trace) or {}\n            pairs = _positive_pairs(wavelengths, _native(trace.get(\"values\")) or [])\n            if not pairs:\n                continue\n            xs = [point[0] for point in pairs]\n            powers = [point[1] for point in pairs]\n            peak_power = max(powers)\n            values_db = [10.0 * math.log10(value / peak_power) for value in powers]\n            label = trace.get(\"name\") or active_test.get(\"name\") or \"transmission\"\n            ax.plot(xs, values_db, lw=1.0, label=label)\n            peak_index = powers.index(peak_power)\n            plotted.append((label, xs, values_db, peak_power, peak_index))\n\n        if not plotted:\n            plt.close(fig)\n            print(f\"No positive wavelength/power values on '{active_test.get('name', '?')}'.\")\n        else:\n            metadata = _native(active_test.get(\"metadata\")) or {}\n            title = metadata.get(\"device_id\") or active_test.get(\"name\") or \"Transmission\"\n            ax.set_xlabel(str(x_name).replace(\"_\", \" \"))\n            ax.set_ylabel(\"Transmission (dB, normalised to peak)\")\n            ax.set_title(f\"Transmission (dB) — {title}\")\n            ax.grid(True, alpha=0.3)\n            if len(plotted) > 1:\n                ax.legend(fontsize=8, loc=\"best\")\n            fig.tight_layout()\n\n            print(f\"Test: {active_test.get('name', '?')}\")\n            for label, xs, values_db, peak_power, peak_index in plotted:\n                in_3db_band = [\n                    x for x, value_db in zip(xs, values_db) if value_db >= -3.0\n                ]\n                bandwidth_3db = (\n                    max(in_3db_band) - min(in_3db_band) if in_3db_band else float(\"nan\")\n                )\n                print(\n                    f\"  {label}: {len(values_db)} positive points | \"\n                    f\"wavelength={min(xs):.3f}-{max(xs):.3f} nm | \"\n                    f\"peak={peak_power:.6e} W @ {xs[peak_index]:.3f} nm | \"\n                    f\"range={min(values_db):.3f} to {max(values_db):.3f} dB\"\n                )\n                print(f\"  3 dB bandwidth: {bandwidth_3db:.3f} nm\")\n\n            emit(fig)\n",
+                  "command": "python ./scripts/plot_transmission_Aiman_dB_v1 <data.csv>",
+                  "who": "zimmxx",
+                  "added": "2026-08-26T15:08:58.037Z",
+                  "updated": "2026-08-26",
+                  "_externalized": true,
+                  "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/scripts/plot_transmission_Aiman_dB_v1",
+                  "repoSha": "22e25dfde48e82cfbfedd1703be5b9f533e06b3f",
+                  "repoContentHash": "3v0_11jak3p"
+                },
+                {
+                  "id": "s_pah7c7l",
+                  "name": "plot_prop_loss_spectrum_Aiman_v1",
+                  "language": "python",
+                  "source": "# Created by: Aiman Hazim Shafizam (CORNERSTONE)\n# Date created: 2026-08-26\n# Version: 1.0\n# Changes:\n#   v1.0 (2026-08-26) - Initial per-chip propagation-loss and MSE spectrum.\n\n\"\"\"Plot propagation loss and fit MSE versus wavelength for every chip.\n\nRun with \"Run script over folder\" on a slot folder containing the matching\nChip#_WG#.txt files and route-config.json.\n\"\"\"\n\nimport json\nimport math\nimport re\n\nimport matplotlib.pyplot as plt\n\n\nTARGET_WAVELENGTH_NM = 1550.0\nWINDOW_NM = 5.0\nSPECTRAL_STEP_NM = 10.0\nMSE_THRESHOLD = 0.5\nLAUNCH_POWER_DBM = 10.0\nDEFAULT_ROUTE_LENGTHS_MM = {1: 0.0, 2: 5.0, 3: 10.0, 4: 15.0}\n\n\ndef _native(value):\n    if hasattr(value, \"to_py\"):\n        try:\n            return value.to_py()\n        except Exception:\n            pass\n    return value\n\n\ndef _folder_tests():\n    encoded = globals().get(\"tests_json\")\n    if isinstance(encoded, str) and encoded:\n        return json.loads(encoded)\n    supplied = _native(globals().get(\"tests\"))\n    return list(supplied) if supplied is not None else []\n\n\ndef _identity(item):\n    value = str(item.get(\"filename\") or item.get(\"name\") or \"\")\n    match = re.search(r\"Chip\\s*(\\d+).*?WG\\s*(\\d+)\", value, re.IGNORECASE)\n    return (int(match.group(1)), int(match.group(2))) if match else None\n\n\ndef _route_lengths(items):\n    for item in items:\n        name = str(item.get(\"filename\") or item.get(\"name\") or \"\").lower()\n        if \"route-config\" not in name or not item.get(\"rawText\"):\n            continue\n        try:\n            config = json.loads(item[\"rawText\"])\n            found = {}\n            for index, route in enumerate(config.get(\"routes\") or [], start=1):\n                match = re.search(r\"(\\d+)\", str(route.get(\"route\") or index))\n                length = float(route.get(\"lengthMm\"))\n                if match and math.isfinite(length):\n                    found[int(match.group(1))] = length\n            if found:\n                return found, \"route-config.json\"\n        except Exception:\n            pass\n    return dict(DEFAULT_ROUTE_LENGTHS_MM), \"built-in fallback\"\n\n\ndef _loss_pairs(item):\n    parsed = _native(item.get(\"parsed\"))\n    if not isinstance(parsed, dict):\n        return []\n    sweep = _native(parsed.get(\"sweep\")) or {}\n    wavelengths = _native(sweep.get(\"values\")) or []\n    traces = _native(parsed.get(\"traces\")) or []\n    if not traces:\n        return []\n    powers = _native((_native(traces[0]) or {}).get(\"values\")) or []\n    pairs = []\n    for wavelength, power in zip(wavelengths, powers):\n        try:\n            wavelength_value = float(wavelength)\n            power_value = float(power)\n        except (TypeError, ValueError):\n            continue\n        if not (math.isfinite(wavelength_value) and math.isfinite(power_value)):\n            continue\n        if power_value <= 0:\n            continue\n        optical_power_dbm = 10.0 * math.log10(power_value * 1000.0)\n        pairs.append((wavelength_value, abs(LAUNCH_POWER_DBM - optical_power_dbm)))\n    return pairs\n\n\ndef _mean_in_window(pairs, center):\n    values = [loss for wavelength, loss in pairs if abs(wavelength - center) <= WINDOW_NM]\n    return sum(values) / len(values) if values else None\n\n\ndef _linear_fit(points):\n    if len(points) < 2:\n        return None\n    count = len(points)\n    sum_x = sum(x for x, _ in points)\n    sum_y = sum(y for _, y in points)\n    sum_xy = sum(x * y for x, y in points)\n    sum_xx = sum(x * x for x, _ in points)\n    denominator = count * sum_xx - sum_x * sum_x\n    if denominator == 0:\n        return None\n    slope = (count * sum_xy - sum_x * sum_y) / denominator\n    intercept = (sum_y - slope * sum_x) / count\n    residual_sum = sum((y - (slope * x + intercept)) ** 2 for x, y in points)\n    return slope * 10.0, residual_sum / count\n\n\ndef _centers(minimum, maximum):\n    start = math.ceil(minimum / SPECTRAL_STEP_NM) * SPECTRAL_STEP_NM\n    values = []\n    center = start\n    while center <= maximum + 1e-9:\n        values.append(center)\n        center += SPECTRAL_STEP_NM\n    return values\n\n\nitems = [_native(item) or {} for item in _folder_tests()]\nfolder_label = str(globals().get(\"folder_name\") or \"folder\")\nroute_lengths, route_source = _route_lengths(items)\nby_chip = {}\n\nfor item in items:\n    identity = _identity(item)\n    if identity is None:\n        continue\n    chip_number, waveguide_number = identity\n    if waveguide_number not in route_lengths:\n        continue\n    pairs = _loss_pairs(item)\n    if pairs:\n        by_chip.setdefault(chip_number, {})[waveguide_number] = pairs\n\nresults = []\nfor chip_number in sorted(by_chip):\n    routes = by_chip[chip_number]\n    common_minimum = max(min(point[0] for point in pairs) for pairs in routes.values())\n    common_maximum = min(max(point[0] for point in pairs) for pairs in routes.values())\n    spectrum = []\n    for center in _centers(common_minimum, common_maximum):\n        regression_points = []\n        for waveguide_number, pairs in sorted(routes.items()):\n            mean_loss = _mean_in_window(pairs, center)\n            if mean_loss is not None:\n                regression_points.append((route_lengths[waveguide_number], mean_loss))\n        fit = _linear_fit(regression_points)\n        if fit is not None:\n            spectrum.append((center, fit[0], fit[1], len(regression_points)))\n    if spectrum:\n        results.append((chip_number, spectrum))\n\nif not results:\n    print(\n        f\"No propagation-loss spectra were produced for '{folder_label}'. \"\n        \"Check the Chip#_WG# files and route-config.json.\"\n    )\nelse:\n    column_count = min(3, len(results))\n    row_count = math.ceil(len(results) / column_count)\n    fig, axes = plt.subplots(\n        row_count,\n        column_count,\n        figsize=(5.1 * column_count, 3.5 * row_count),\n        squeeze=False,\n    )\n\n    for axis, (chip_number, spectrum) in zip(axes.flat, results):\n        xs = [point[0] for point in spectrum]\n        losses = [point[1] for point in spectrum]\n        mses = [point[2] for point in spectrum]\n        mse_axis = axis.twinx()\n        loss_line = axis.plot(\n            xs, losses, color=\"#2f81f7\", marker=\"o\", ms=3.5, lw=1.25,\n            label=\"Propagation loss\",\n        )[0]\n        mse_line = mse_axis.plot(\n            xs, mses, color=\"#f0883e\", marker=\"s\", ms=3.0, lw=1.0,\n            ls=\"--\", label=\"MSE\",\n        )[0]\n        axis.axvspan(\n            TARGET_WAVELENGTH_NM - WINDOW_NM,\n            TARGET_WAVELENGTH_NM + WINDOW_NM,\n            color=\"#2f81f7\",\n            alpha=0.08,\n        )\n        nearest = min(spectrum, key=lambda point: abs(point[0] - TARGET_WAVELENGTH_NM))\n        status = \"PASS\" if nearest[2] <= MSE_THRESHOLD else \"FAIL\"\n        axis.set_title(\n            f\"Chip{chip_number}: {nearest[1]:.3f} dB/cm at {nearest[0]:.0f} nm\\n\"\n            f\"MSE={nearest[2]:.4f} — {status}\",\n            fontsize=9,\n        )\n        axis.set_xlabel(\"Wavelength (nm)\")\n        axis.set_ylabel(\"Propagation loss (dB/cm)\", color=\"#2f81f7\")\n        mse_axis.set_ylabel(\"MSE\", color=\"#f0883e\")\n        axis.tick_params(axis=\"y\", colors=\"#2f81f7\")\n        mse_axis.tick_params(axis=\"y\", colors=\"#f0883e\")\n        axis.grid(True, alpha=0.25)\n        axis.legend([loss_line, mse_line], [\"Propagation loss\", \"MSE\"], fontsize=7)\n\n    for unused_axis in list(axes.flat)[len(results):]:\n        unused_axis.axis(\"off\")\n\n    fig.suptitle(\n        f\"Propagation-loss spectrum — {folder_label} | \"\n        f\"window +/- {WINDOW_NM:.0f} nm, step {SPECTRAL_STEP_NM:.0f} nm\",\n        fontsize=12,\n    )\n    fig.tight_layout(rect=(0, 0, 1, 0.96))\n\n    print(f\"Folder: {folder_label}\")\n    print(f\"  route lengths: {route_source} -> {route_lengths}\")\n    print(\n        f\"  wavelength window: +/- {WINDOW_NM:.1f} nm | \"\n        f\"spectral step: {SPECTRAL_STEP_NM:.1f} nm | \"\n        f\"MSE threshold: {MSE_THRESHOLD:.4f}\"\n    )\n    for chip_number, spectrum in results:\n        nearest = min(spectrum, key=lambda point: abs(point[0] - TARGET_WAVELENGTH_NM))\n        status = \"PASS\" if nearest[2] <= MSE_THRESHOLD else \"FAIL\"\n        print(\n            f\"  Chip{chip_number}: {len(spectrum)} intervals | \"\n            f\"nearest target={nearest[0]:.1f} nm | \"\n            f\"loss={nearest[1]:.6f} dB/cm | MSE={nearest[2]:.6f} | {status}\"\n        )\n\n    emit(fig)\n",
+                  "command": "python ./scripts/plot_prop_loss_spectrum_Aiman_v1 <data.csv>",
+                  "who": "zimmxx",
+                  "added": "2026-08-26T15:09:23.813Z",
+                  "updated": "2026-08-26",
+                  "_externalized": true,
+                  "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/scripts/plot_prop_loss_spectrum_Aiman_v1",
+                  "repoSha": "7c72f559eed6d5a3ba7912842a0f74f19bd09e64",
+                  "repoContentHash": "8hk_c1o8hr"
+                },
+                {
+                  "id": "s_c3o3lds",
+                  "name": "plot_prop_loss_fit_Aiman_v1",
+                  "language": "python",
+                  "source": "# Created by: Aiman Hazim Shafizam (CORNERSTONE)\n# Date created: 2026-08-26\n# Version: 1.1\n# Changes:\n#   v1.0 (2026-08-26) - Initial per-chip propagation-loss fitting plot.\n#   v1.1 (2026-08-26) - Added 95% confidence bounds and slope confidence\n#                       intervals, renamed the Y-axis to Loss (dB), removed\n#                       WG labels, and aligned loss conversion with cs-testsuite.\n\n\"\"\"Fit propagation loss for every chip in one PDKMonitor slot folder.\n\nRun with \"Run script over folder\". The script reads ``route-config.json``\nfrom that folder, groups ``Chip#_WG#.txt`` files by chip, averages optical\nloss in the 1550 +/- 5 nm window, and fits loss versus route length.\n\"\"\"\n\nimport json\nimport math\nimport re\n\nimport matplotlib.pyplot as plt\n\n\nTARGET_WAVELENGTH_NM = 1550.0\nWINDOW_NM = 5.0\nMSE_THRESHOLD = 0.5\nLAUNCH_POWER_DBM = 10.0\nDEFAULT_ROUTE_LENGTHS_MM = {1: 0.0, 2: 5.0, 3: 10.0, 4: 15.0}\n\n\ndef _native(value):\n    if hasattr(value, \"to_py\"):\n        try:\n            return value.to_py()\n        except Exception:\n            pass\n    return value\n\n\ndef _folder_tests():\n    encoded = globals().get(\"tests_json\")\n    if isinstance(encoded, str) and encoded:\n        return json.loads(encoded)\n    supplied = _native(globals().get(\"tests\"))\n    return list(supplied) if supplied is not None else []\n\n\ndef _identity(item):\n    value = str(item.get(\"filename\") or item.get(\"name\") or \"\")\n    match = re.search(r\"Chip\\s*(\\d+).*?WG\\s*(\\d+)\", value, re.IGNORECASE)\n    if not match:\n        return None\n    return int(match.group(1)), int(match.group(2))\n\n\ndef _route_lengths(items):\n    for item in items:\n        name = str(item.get(\"filename\") or item.get(\"name\") or \"\").lower()\n        if \"route-config\" not in name:\n            continue\n        raw_text = item.get(\"rawText\")\n        if not raw_text:\n            continue\n        try:\n            config = json.loads(raw_text)\n            routes = config.get(\"routes\") or []\n            found = {}\n            for index, route in enumerate(routes, start=1):\n                route_name = str(route.get(\"route\") or index)\n                route_match = re.search(r\"(\\d+)\", route_name)\n                length = float(route.get(\"lengthMm\"))\n                if route_match and math.isfinite(length):\n                    found[int(route_match.group(1))] = length\n            if found:\n                return found, \"route-config.json\"\n        except Exception:\n            pass\n    return dict(DEFAULT_ROUTE_LENGTHS_MM), \"built-in fallback\"\n\n\ndef _window_loss_db(item):\n    parsed = _native(item.get(\"parsed\"))\n    if not isinstance(parsed, dict):\n        return None, 0\n    sweep = _native(parsed.get(\"sweep\")) or {}\n    wavelengths = _native(sweep.get(\"values\")) or []\n    traces = _native(parsed.get(\"traces\")) or []\n    if not traces:\n        return None, 0\n    trace = _native(traces[0]) or {}\n    powers = _native(trace.get(\"values\")) or []\n    losses = []\n    for wavelength, power in zip(wavelengths, powers):\n        try:\n            wavelength_value = float(wavelength)\n            power_value = float(power)\n        except (TypeError, ValueError):\n            continue\n        if not (math.isfinite(wavelength_value) and math.isfinite(power_value)):\n            continue\n        if power_value <= 0 or abs(wavelength_value - TARGET_WAVELENGTH_NM) > WINDOW_NM:\n            continue\n        optical_power_dbm = 10.0 * math.log10(power_value * 1000.0)\n        losses.append(abs(LAUNCH_POWER_DBM - optical_power_dbm))\n    if not losses:\n        return None, 0\n    return sum(losses) / len(losses), len(losses)\n\n\ndef _linear_fit(points):\n    if len(points) < 2:\n        return None\n    count = len(points)\n    sum_x = sum(point[0] for point in points)\n    sum_y = sum(point[1] for point in points)\n    sum_xy = sum(point[0] * point[1] for point in points)\n    sum_xx = sum(point[0] * point[0] for point in points)\n    denominator = count * sum_xx - sum_x * sum_x\n    if denominator == 0:\n        return None\n    slope = (count * sum_xy - sum_x * sum_y) / denominator\n    intercept = (sum_y - slope * sum_x) / count\n    residual_sum = sum((y - (slope * x + intercept)) ** 2 for x, y, _ in points)\n    mse = residual_sum / count\n    mean_y = sum_y / count\n    total_sum = sum((y - mean_y) ** 2 for _, y, _ in points)\n    r_squared = 1.0 - residual_sum / total_sum if total_sum > 0 else 1.0\n    x_mean = sum_x / count\n    sxx = sum((x - x_mean) ** 2 for x, _, _ in points)\n    degrees_freedom = count - 2\n    residual_standard_error = (\n        math.sqrt(residual_sum / degrees_freedom) if degrees_freedom > 0 else 0.0\n    )\n    t_critical = _t_critical_95(degrees_freedom)\n    slope_standard_error = (\n        residual_standard_error / math.sqrt(sxx) if sxx > 0 else 0.0\n    )\n    slope_margin = t_critical * slope_standard_error\n    return {\n        \"slope_db_per_mm\": slope,\n        \"loss_db_per_cm\": slope * 10.0,\n        \"intercept_db\": intercept,\n        \"mse\": mse,\n        \"r_squared\": r_squared,\n        \"count\": count,\n        \"x_mean\": x_mean,\n        \"sxx\": sxx,\n        \"residual_standard_error\": residual_standard_error,\n        \"t_critical\": t_critical,\n        \"slope_ci_db_per_cm\": (\n            (slope - slope_margin) * 10.0,\n            (slope + slope_margin) * 10.0,\n        ),\n    }\n\n\ndef _t_critical_95(degrees_freedom):\n    \"\"\"Two-sided 95% Student-t critical value without SciPy.\"\"\"\n    values = {\n        1: 12.706, 2: 4.303, 3: 3.182, 4: 2.776, 5: 2.571,\n        6: 2.447, 7: 2.365, 8: 2.306, 9: 2.262, 10: 2.228,\n        11: 2.201, 12: 2.179, 13: 2.160, 14: 2.145, 15: 2.131,\n        16: 2.120, 17: 2.110, 18: 2.101, 19: 2.093, 20: 2.086,\n        25: 2.060, 30: 2.042, 40: 2.021, 60: 2.000, 120: 1.980,\n    }\n    if degrees_freedom <= 0:\n        return 0.0\n    for available in sorted(values):\n        if degrees_freedom <= available:\n            return values[available]\n    return 1.960\n\n\nitems = [_native(item) or {} for item in _folder_tests()]\nfolder_label = str(globals().get(\"folder_name\") or \"folder\")\nroute_lengths, route_source = _route_lengths(items)\nby_chip = {}\n\nfor item in items:\n    identity = _identity(item)\n    if identity is None:\n        continue\n    chip_number, waveguide_number = identity\n    if waveguide_number not in route_lengths:\n        continue\n    mean_loss_db, sample_count = _window_loss_db(item)\n    if mean_loss_db is None:\n        continue\n    by_chip.setdefault(chip_number, []).append(\n        (route_lengths[waveguide_number], mean_loss_db, waveguide_number, sample_count)\n    )\n\nresults = []\nfor chip_number in sorted(by_chip):\n    samples = sorted(by_chip[chip_number], key=lambda sample: sample[0])\n    fit_points = [(length, loss, waveguide) for length, loss, waveguide, _ in samples]\n    fit = _linear_fit(fit_points)\n    if fit is not None:\n        results.append((chip_number, samples, fit))\n\nif not results:\n    print(\n        f\"No propagation fits were produced for '{folder_label}'. \"\n        \"Check that the folder contains matching Chip#_WG#.txt files and route-config.json.\"\n    )\nelse:\n    column_count = min(4, len(results))\n    row_count = math.ceil(len(results) / column_count)\n    fig, axes = plt.subplots(\n        row_count,\n        column_count,\n        figsize=(4.1 * column_count, 3.25 * row_count),\n        squeeze=False,\n    )\n\n    passing_losses = []\n    for axis, (chip_number, samples, fit) in zip(axes.flat, results):\n        xs = [sample[0] for sample in samples]\n        ys = [sample[1] for sample in samples]\n        fit_xs = [\n            min(xs) + index * (max(xs) - min(xs)) / 99.0 for index in range(100)\n        ]\n        fit_ys = [\n            fit[\"slope_db_per_mm\"] * x + fit[\"intercept_db\"] for x in fit_xs\n        ]\n        confidence_margin = [\n            fit[\"t_critical\"]\n            * fit[\"residual_standard_error\"]\n            * math.sqrt(\n                1.0 / fit[\"count\"]\n                + ((x - fit[\"x_mean\"]) ** 2 / fit[\"sxx\"] if fit[\"sxx\"] > 0 else 0.0)\n            )\n            for x in fit_xs\n        ]\n        confidence_lower = [y - margin for y, margin in zip(fit_ys, confidence_margin)]\n        confidence_upper = [y + margin for y, margin in zip(fit_ys, confidence_margin)]\n        passed = fit[\"mse\"] <= MSE_THRESHOLD\n        if passed:\n            passing_losses.append(fit[\"loss_db_per_cm\"])\n\n        axis.scatter(xs, ys, s=34, color=\"#2f81f7\", zorder=3, label=\"Measured\")\n        axis.plot(fit_xs, fit_ys, color=\"#f0883e\", lw=1.4, label=\"Linear fit\")\n        axis.fill_between(\n            fit_xs,\n            confidence_lower,\n            confidence_upper,\n            color=\"#f0883e\",\n            alpha=0.18,\n            label=\"95% confidence\",\n        )\n        axis.plot(fit_xs, confidence_lower, color=\"#f0883e\", lw=0.7, ls=\"--\")\n        axis.plot(fit_xs, confidence_upper, color=\"#f0883e\", lw=0.7, ls=\"--\")\n        axis.set_title(\n            f\"Chip{chip_number}: {fit['loss_db_per_cm']:.3f} dB/cm\\n\"\n            f\"MSE={fit['mse']:.4f}, R2={fit['r_squared']:.4f} — \"\n            f\"{'PASS' if passed else 'FAIL'}\",\n            fontsize=9,\n        )\n        axis.set_xlabel(\"Relative length (mm)\")\n        axis.set_ylabel(\"Loss (dB)\")\n        axis.grid(True, alpha=0.25)\n        axis.legend(fontsize=7, loc=\"best\")\n\n    for unused_axis in list(axes.flat)[len(results):]:\n        unused_axis.axis(\"off\")\n\n    fig.suptitle(\n        f\"Propagation-loss fits — {folder_label} | \"\n        f\"{TARGET_WAVELENGTH_NM:.0f} +/- {WINDOW_NM:.0f} nm\",\n        fontsize=12,\n    )\n    fig.tight_layout(rect=(0, 0, 1, 0.96))\n\n    print(f\"Folder: {folder_label}\")\n    print(f\"  route lengths: {route_source} -> {route_lengths}\")\n    print(\n        f\"  fit window: {TARGET_WAVELENGTH_NM:.1f} +/- {WINDOW_NM:.1f} nm | \"\n        f\"MSE threshold={MSE_THRESHOLD:.4f}\"\n    )\n    for chip_number, samples, fit in results:\n        status = \"PASS\" if fit[\"mse\"] <= MSE_THRESHOLD else \"FAIL\"\n        print(\n            f\"  Chip{chip_number}: {fit['loss_db_per_cm']:.6f} dB/cm | \"\n            f\"95% CI=[{fit['slope_ci_db_per_cm'][0]:.6f}, \"\n            f\"{fit['slope_ci_db_per_cm'][1]:.6f}] dB/cm | \"\n            f\"MSE={fit['mse']:.6f} | R2={fit['r_squared']:.6f} | \"\n            f\"intercept={fit['intercept_db']:.6f} dB | {status} | \"\n            f\"routes={len(samples)}\"\n        )\n    yield_percent = 100.0 * len(passing_losses) / len(results)\n    average_loss = (\n        sum(passing_losses) / len(passing_losses) if passing_losses else float(\"nan\")\n    )\n    print(\n        f\"  wafer result: {len(passing_losses)}/{len(results)} passing | \"\n        f\"yield={yield_percent:.2f}% | average={average_loss:.6f} dB/cm\"\n    )\n\n    emit(fig)\n",
+                  "command": "python ./scripts/plot_prop_loss_fit_Aiman_v1 <data.csv>",
+                  "who": "zimmxx",
+                  "added": "2026-08-26T15:10:12.534Z",
+                  "updated": "2026-08-26",
+                  "_externalized": true,
+                  "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/scripts/plot_prop_loss_fit_Aiman_v1",
+                  "repoSha": "bfb458423d0419b76fb9916222facf916a6b2c36",
+                  "repoContentHash": "axk_15nl1h5"
+                },
+                {
+                  "id": "s_x4fw81w",
+                  "name": "plot_multi_transmission_Aiman_v1",
+                  "language": "python",
+                  "source": "# Created by: Aiman Hazim Shafizam (CORNERSTONE)\n# Date created: 2026-08-26\n# Version: 1.2\n# Changes:\n#   v1.0 (2026-08-26) - Initial multi-transmission overlay.\n#   v1.1 (2026-08-26) - Added separate chip panels, WG legends, and Loss (dB).\n#   v1.2 (2026-08-26) - Inverted the Loss axis to match cs-testsuite and set\n#                       the major Y-axis interval to 5 dB.\n\n\"\"\"Plot one loss-spectrum panel per chip in a PDKMonitor slot folder.\n\nRun with \"Run script over folder\". Each chip gets a separate panel and its\nWG1, WG2, ... routes are identified in the legend.\n\"\"\"\n\nimport json\nimport math\nimport re\n\nimport matplotlib.pyplot as plt\nfrom matplotlib.ticker import MultipleLocator\n\n\nLAUNCH_POWER_DBM = 10.0\nMAX_POINTS_PER_TRACE = 3000\n\n\ndef _native(value):\n    if hasattr(value, \"to_py\"):\n        try:\n            return value.to_py()\n        except Exception:\n            pass\n    return value\n\n\ndef _folder_tests():\n    encoded = globals().get(\"tests_json\")\n    if isinstance(encoded, str) and encoded:\n        return json.loads(encoded)\n    supplied = _native(globals().get(\"tests\"))\n    return list(supplied) if supplied is not None else []\n\n\ndef _identity(item):\n    value = str(item.get(\"filename\") or item.get(\"name\") or \"\")\n    match = re.search(r\"Chip\\s*(\\d+).*?WG\\s*(\\d+)\", value, re.IGNORECASE)\n    return (int(match.group(1)), int(match.group(2))) if match else None\n\n\ndef _loss_pairs(item):\n    parsed = _native(item.get(\"parsed\"))\n    if not isinstance(parsed, dict):\n        return []\n    sweep = _native(parsed.get(\"sweep\")) or {}\n    wavelengths = _native(sweep.get(\"values\")) or []\n    traces = _native(parsed.get(\"traces\")) or []\n    if not traces:\n        return []\n    powers = _native((_native(traces[0]) or {}).get(\"values\")) or []\n    pairs = []\n    for wavelength, power in zip(wavelengths, powers):\n        try:\n            wavelength_value = float(wavelength)\n            power_value = float(power)\n        except (TypeError, ValueError):\n            continue\n        if not (math.isfinite(wavelength_value) and math.isfinite(power_value)):\n            continue\n        if power_value <= 0:\n            continue\n        optical_power_dbm = 10.0 * math.log10(power_value * 1000.0)\n        loss_db = abs(LAUNCH_POWER_DBM - optical_power_dbm)\n        pairs.append((wavelength_value, loss_db))\n    return pairs\n\n\ndef _downsample(pairs):\n    if len(pairs) <= MAX_POINTS_PER_TRACE:\n        return pairs\n    stride = max(1, math.ceil(len(pairs) / MAX_POINTS_PER_TRACE))\n    return pairs[::stride]\n\n\nitems = [_native(item) or {} for item in _folder_tests()]\nfolder_label = str(globals().get(\"folder_name\") or \"folder\")\nby_chip = {}\nskipped = []\n\nfor item in items:\n    identity = _identity(item)\n    pairs = _loss_pairs(item)\n    if identity is None or len(pairs) < 2:\n        skipped.append(str(item.get(\"filename\") or item.get(\"name\") or \"?\"))\n        continue\n    chip_number, waveguide_number = identity\n    by_chip.setdefault(chip_number, []).append((waveguide_number, _downsample(pairs)))\n\nif not by_chip:\n    print(f\"No parseable Chip#_WG# transmission files in '{folder_label}'.\")\nelse:\n    column_count = min(4, len(by_chip))\n    row_count = math.ceil(len(by_chip) / column_count)\n    fig, axes = plt.subplots(\n        row_count,\n        column_count,\n        figsize=(4.2 * column_count, 3.2 * row_count),\n        squeeze=False,\n    )\n    trace_count = 0\n    coverage = []\n    for axis, chip_number in zip(axes.flat, sorted(by_chip)):\n        for waveguide_number, pairs in sorted(by_chip[chip_number]):\n            xs = [point[0] for point in pairs]\n            ys = [point[1] for point in pairs]\n            coverage.extend(xs)\n            axis.plot(xs, ys, lw=0.8, alpha=0.85, label=f\"WG{waveguide_number}\")\n            trace_count += 1\n        axis.set_title(f\"Chip{chip_number}\", fontsize=10)\n        axis.set_xlabel(\"Wavelength (nm)\")\n        axis.set_ylabel(\"Loss (dB)\")\n        axis.yaxis.set_major_locator(MultipleLocator(5.0))\n        axis.invert_yaxis()\n        axis.grid(True, alpha=0.25)\n        axis.legend(fontsize=7, loc=\"best\")\n\n    for unused_axis in list(axes.flat)[len(by_chip):]:\n        unused_axis.axis(\"off\")\n\n    fig.suptitle(f\"Transmission spectra by chip — {folder_label}\", fontsize=12)\n    fig.tight_layout(rect=(0, 0, 1, 0.96))\n\n    print(f\"Folder: {folder_label}\")\n    print(f\"  chips plotted: {len(by_chip)}\")\n    print(f\"  WG traces plotted: {trace_count}\")\n    if coverage:\n        print(f\"  wavelength coverage: {min(coverage):.3f}-{max(coverage):.3f} nm\")\n    print(f\"  launch power reference: {LAUNCH_POWER_DBM:.3f} dBm\")\n    print(f\"  non-plot files skipped: {len(skipped)}\")\n    if skipped:\n        print(f\"  skipped examples: {', '.join(skipped[:5])}\")\n    print(f\"  display downsampling limit: {MAX_POINTS_PER_TRACE} points per WG\")\n\n    emit(fig)\n",
+                  "command": "python ./scripts/plot_multi_transmission_Aiman_v1 <data.csv>",
+                  "who": "zimmxx",
+                  "added": "2026-08-26T15:12:11.192Z",
+                  "updated": "2026-08-26",
+                  "_externalized": true,
+                  "repoPath": "users/zimmxx/SOI220nm_1550nm_TE_RIB_Waveguide__03sxv8/scripts/plot_multi_transmission_Aiman_v1",
+                  "repoSha": "46a8cfa2a91fb2cdfc5956c8f6fd12f6d5588000",
+                  "repoContentHash": "4z0_10fsuwr"
+                }
+              ],
               "documents": [],
               "testGroups": [],
               "smatrixGroups": [],
@@ -2147,7 +2202,7 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-08-26T15:06:06.400Z",
+    "publishedAt": "2026-08-26T15:14:35.819Z",
     "publisherIdentity": "zimmxx",
     "publisherLabel": "Aiman Hazim Shafizam",
     "publisherRole": "user-admin",
@@ -2156,14 +2211,14 @@
     "bbCount": 2,
     "groupCount": 16,
     "tabCount": 4,
-    "fileCount": 54,
+    "fileCount": 59,
     "sliceFor": "zimmxx",
     "termsVersion": "1.1.0",
     "externalized": {
-      "uploaded": 16,
+      "uploaded": 5,
       "skipped": 0,
       "failed": 0,
-      "reused": 36,
+      "reused": 52,
       "usersDir": "users/zimmxx/",
       "layoutVersion": "rev5-tab-named",
       "note": "Per-BB folder layout: users/zimmxx/<bb>/<section>/<file> — section folders are tab-named one-to-one with the BB-panel tabs: layout (GDS / OASIS + canonical YAML), smatrix (S-matrix datasets), tests, fab, scripts, documents (non-canonical YAMLs + other docs), eda (eda_links.json), files (loose BB-level files), variants (recursive). Each item carries `repoPath` instead of inline bytes; adopters hydrate via the fetch-time helper. Re-publish is idempotent."
@@ -2172,9 +2227,9 @@
       "gdsContent": 0,
       "layoutSvg": 0,
       "documents": 0,
-      "datasets": 58,
-      "parsed": 28,
-      "approxBytes": 61158252,
+      "datasets": 90,
+      "parsed": 41,
+      "approxBytes": 87534527,
       "note": "All embedded binaries (GDS, document data URLs, large SVGs, raw CSV / S-matrix bytes) were stripped from this published payload — only metadata remains. Adopters: run a per-BB or per-platform GitHub sync to repopulate the bytes from the original GitHub source."
     }
   }
