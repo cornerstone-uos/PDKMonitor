@@ -1,10 +1,10 @@
-# MPW48_SOI220nmPassive_Slot5_Step31_1550nm_TE_STRIP_Waveguide_PropagationLoss_OperatorAlign
+# MPW48_SOI220nmPassive_Slot7_Step31_1550nm_TE_STRIP_Waveguide_PropagationLoss_OperatorAlign
 
 This folder contains measurement traces for MPW48.
 
 ## Dataset Summary
 - Project: MPW48
-- Slot: Slot5
+- Slot: Slot7
 - Platform: SOI220nmPassive
 - Process step: Step31
 - Optical mode: 1550nm_TE
@@ -12,13 +12,13 @@ This folder contains measurement traces for MPW48.
 - PDKMonitor building block: SOI220nm_1550nm_TE_STRIP_Waveguide
 - Measurement type: PropagationLoss
 - Alignment mode: OperatorAlign
-- Measurement date: 2026-08-06
+- Measurement date: 2026-08-07
 - Published date: Pending publication
 - Publisher: CORNERSTONE
 - License: Pending decision
 - Trace files: 40
-- Chips: Chip2, Chip6, Chip29, Chip45, Chip49, Chip53, Chip57, Chip61, Chip88, Chip92
-- Routes: WG1, WG2, WG3, WG4
+- Chips: Chip13, Chip35, Chip38, Chip41, Chip45, Chip51, Chip52, Chip61, Chip67, Chip89
+- Routes: WG1, WG2, WG3, WG4, WG5, WG6
 - Normalized rows: 760040
 - Wavelength span: 1525.000 nm to 1620.000 nm
 - Metadata: metadata.json
