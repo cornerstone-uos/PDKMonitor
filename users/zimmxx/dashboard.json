@@ -2206,7 +2206,7 @@
             "material": "Si",
             "thickness": 340
           },
-          "collapsed": false,
+          "collapsed": true,
           "platformDocs": [],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_340nm",
           "githubSubdir": "components",
@@ -2434,58 +2434,7 @@
           "githubSubdir": "",
           "docsGithubUrl": "",
           "githubSources": [],
-          "entities": [
-            {
-              "id": "e_4u40vx6",
-              "name": "NEW_BB_AIMAN_v1",
-              "status": "progress",
-              "owner": "CS",
-              "description": "",
-              "githubUrl": "",
-              "files": [],
-              "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "documents": [],
-              "updated": "2026-07-23",
-              "kind": "passive",
-              "bbType": "",
-              "dimensionsOn": false,
-              "params": {},
-              "gdsName": "",
-              "gdsSize": 0,
-              "edaTools": [],
-              "cdi": {},
-              "fabTabs": [],
-              "plannedReleaseDate": "",
-              "trl": null,
-              "cloudBases": {},
-              "canonicalYamlId": "doc_tp916qd",
-              "smatrixGroups": [],
-              "gdsRepoPath": "users/zimmxx/NEW_BB_AIMAN_v1__u40vx6/layout/45_9_CStest_processed.gds",
-              "gdsRepoSha": "3f1bf0479a87f936534d21daaadfc920ee231747",
-              "gdsContentHash": "am80s_q9rw2n",
-              "gdsContent": "",
-              "_fetched": true,
-              "descriptionContributions": [
-                {
-                  "id": "nc_nrx2m33",
-                  "text": "test MPW?",
-                  "who": "AEmreKaplan",
-                  "ts": 1784816297996
-                }
-              ],
-              "layoutSvg": "",
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "fetchHistory": [],
-              "edaLinks": [],
-              "scriptsNotes": ""
-            }
-          ]
+          "entities": []
         }
       ]
     },
@@ -2585,9 +2534,7 @@
   "ownership": {
     "e_o03sxv8": "admin",
     "layout:e_o03sxv8": "zimmxx",
-    "e_se3wwq8": "zimmxx",
-    "e_4u40vx6": "zimmxx",
-    "layout:e_4u40vx6": "zimmxx"
+    "e_se3wwq8": "zimmxx"
   },
   "labels": {
     "zimmxx": "zimmxx"
@@ -2614,182 +2561,182 @@
       "kind": "bb",
       "id": "e_jnda5cp",
       "name": "NEW_BB_Aiman_v2",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_16fhdrk",
       "name": "Heater",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_yvbv3uj",
       "name": "SOI220nm_1310nm_TE_RIB_2x1_MMI",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_4or8q1h",
       "name": "SOI220nm_1310nm_TE_RIB_2x2_MMI",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_vkyxzwj",
       "name": "SOI220nm_1310nm_TE_RIB_90_Degree_Bend",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_9gbw4hb",
       "name": "SOI220nm_1310nm_TE_RIB_Grating_Coupler",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_6ashe91",
       "name": "SOI220nm_1310nm_TE_RIB_Waveguide",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_4airvuy",
       "name": "SOI220nm_1310nm_TE_RIB_Waveguide_Crossing",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_9g3xdz1",
       "name": "SOI220nm_1310nm_TE_STRIP_2x1_MMI",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_2guc0ss",
       "name": "SOI220nm_1310nm_TE_STRIP_2x2_MMI",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_za5ahds",
       "name": "SOI220nm_1310nm_TE_STRIP_90_Degree_Bend",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_5p8fygf",
       "name": "SOI220nm_1310nm_TE_STRIP_Grating_Coupler",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_k4st5pd",
       "name": "SOI220nm_1310nm_TE_STRIP_Waveguide",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_kq8gywl",
       "name": "SOI220nm_1310nm_TE_STRIP_Waveguide_Crossing",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_j265dei",
       "name": "SOI220nm_1550nm_TE_RIB_2x1_MMI",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_4t8aabt",
       "name": "SOI220nm_1550nm_TE_RIB_2x2_MMI",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_gc5wcwm",
       "name": "SOI220nm_1550nm_TE_RIB_90_Degree_Bend",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_xiqvqpl",
       "name": "SOI220nm_1550nm_TE_RIB_Grating_Coupler",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_dhc1wk3",
       "name": "SOI220nm_1550nm_TE_RIB_Waveguide_Crossing",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_evj5qzz",
       "name": "SOI220nm_1550nm_TE_STRIP_2x1_MMI",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_e36l9m4",
       "name": "SOI220nm_1550nm_TE_STRIP_2x2_MMI",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_7iw0q36",
       "name": "SOI220nm_1550nm_TE_STRIP_90_Degree_Bend",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_av9pzdd",
       "name": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     },
     {
       "kind": "bb",
       "id": "e_qq60lvt",
       "name": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing",
-      "ts": 1787746498195,
+      "ts": 1787746761603,
       "by": "zimmxx"
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-08-26T12:15:52.623Z",
+    "publishedAt": "2026-08-26T12:20:31.566Z",
     "publisherIdentity": "zimmxx",
     "publisherLabel": "Aiman Hazim Shafizam",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.1.0",
-    "bbCount": 3,
+    "bbCount": 2,
     "groupCount": 16,
     "tabCount": 4,
-    "fileCount": 81,
+    "fileCount": 80,
     "sliceFor": "zimmxx",
     "termsVersion": "1.1.0",
     "externalized": {
